@@ -1,2 +1,2 @@
-# data_academy_community
-Material for the course Data Academy Community
+# Data Academy Community
+Content & training material user for instructor led virtual training 
