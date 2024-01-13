@@ -19,3 +19,4 @@ Content & training material user for instructor led virtual training
 * [Global Data Barometer](https://globaldatabarometer.org/open-data/)
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 
+## Here are more interesting website to learn Data Science
