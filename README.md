@@ -1,5 +1,5 @@
 # Data Academy Community
-Content & training material user for instructor led virtual training 
+**Content & training material user for instructor led virtual training** 
 
 
 
@@ -18,7 +18,6 @@ Content & training material user for instructor led virtual training
 * [OECD Data Explorer](https://data-explorer.oecd.org)
 * [Global Data Barometer](https://globaldatabarometer.org/open-data/)
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
-<<<<<<< HEAD
 
 
 
@@ -38,5 +37,3 @@ Content & training material user for instructor led virtual training
 
 * [HackerRank for SQL Practice](https://www.hackerrank.com/domains/sql)
 
-=======
->>>>>>> 9874387c8a9cad3763be0f88996bee21e97447a8
