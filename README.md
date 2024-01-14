@@ -18,5 +18,3 @@ Content & training material user for instructor led virtual training
 * [OECD Data Explorer](https://data-explorer.oecd.org)
 * [Global Data Barometer](https://globaldatabarometer.org/open-data/)
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
-
-## Here are more interesting website to learn Data Science
