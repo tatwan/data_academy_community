@@ -19,3 +19,21 @@ Content & training material user for instructor led virtual training
 * [Global Data Barometer](https://globaldatabarometer.org/open-data/)
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 
+
+
+## Additional SQL Resources  (Learn)
+
+* 
+
+* [W3Schools for SQL](https://www.w3schools.com/sql/default.asp)
+* [SQLZoo](https://www.sqlzoo.net/wiki/SQL_Tutorial)
+* [SQL Murder Mystery Quest](https://mystery.knightlab.com)
+* [Mode Analytics SQL Tutorials](https://mode.com/sql-tutorial)
+* [Snowflake Tutorials](https://docs.snowflake.com/en/learn-tutorials)
+
+
+
+## Practice SQL
+
+* [HackerRank for SQL Practice](https://www.hackerrank.com/domains/sql)
+
