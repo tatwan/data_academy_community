@@ -21,9 +21,13 @@
 
 
 
-## Additional SQL Resources  (Learn)
+## Excel Resources 
 
-* 
+* [W3Schools for Excel](https://www.w3schools.com/excel/index.php)
+* [GeeksforGeeks Excel Tutorials](https://www.geeksforgeeks.org/excel-tutorial/)
+* [Microsoft Excel Documentation & Support](https://support.microsoft.com/en-us/excel)
+
+## Additional SQL Resources  (Learn)
 
 * [W3Schools for SQL](https://www.w3schools.com/sql/default.asp)
 * [SQLZoo](https://www.sqlzoo.net/wiki/SQL_Tutorial)
