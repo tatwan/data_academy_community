@@ -84,6 +84,15 @@ In the installation summary just double check the options then click next to bei
 
 ![image-20240127181428223](images/image-20240127181428223.png)
 
+* If you get an error like the following which may ask you to fix the port 
+
+![image-20240127182007211](images/image-20240127182007211.png)
+
+* Click Configure 
+
+![image-20240127181919920](images/image-20240127181919920.png)
+
+* Then just click save so it uses the default port `5050` or some other random port number it may suggest.
 * 
 
 ## Option B: Install using Docker
