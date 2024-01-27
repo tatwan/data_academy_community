@@ -1,3 +1,5 @@
+[toc]
+
 # Learning SQL
 
 ## SQL IDE/GUI 
@@ -46,37 +48,43 @@ When you install a SQL database such as MySQL, PostgreSQL, SQLite, or others the
 
 ![image-20240127164720868](images/image-20240127164720868.png)
 
+* Click Next
+
 ![image-20240127164732592](images/image-20240127164732592.png)
 
-Notice the installation come bundled with **pgAdmin** for the interface (IDE) which if you decided to use you can keep it checked otherwise if you want to use another tool like **DBeaver** you can uncheck it. Then click Next
+* Click Next
+
+![image-20240128002928604](images/image-20240128002928604.png)
+
+* Notice the installation come bundled with **pgAdmin** for the interface (IDE) which if you decided to use you can keep it checked otherwise if you want to use another tool like **DBeaver** you can uncheck it. You can also uncheck `Stack Builder` option. Then click Next
 
 ![image-20240127164844409](images/image-20240127164844409.png)
 
-Click Next.
-
-Enter a password for the superuser (admin) named `postgres`. Make sure you document and remember the password
+* Click Next.
 
 ![image-20240127164924965](images/image-20240127164924965.png)
 
-Keep the default port `5432`
+* Enter a password for the superuser (admin) named `postgres`. Make sure you document and remember the password. Then click next.
 
 ![image-20240127164953212](images/image-20240127164953212.png)
 
-Click next
+* Keep the default port `5432`
+
+* Click next
 
 ![image-20240127165011351](images/image-20240127165011351.png)
 
-Here keep the detail option for `locale` and click next 
+* Here keep the detail option for `locale` and click next 
 
 ![image-20240127165050996](images/image-20240127165050996.png)
 
-In the installation summary just double check the options then click next to being the installation 
+* In the installation summary just double check the options then click next to being the installation 
 
 ![image-20240127180529822](images/image-20240127180529822.png)
 
 ---
 
-### Launching pgAdmin with PostgreSQL installation
+### Launching pgAdmin with PostgreSQL installation (Optional)
 
 * Once installation is complete you can launch pdAdmin
 
@@ -93,7 +101,8 @@ In the installation summary just double check the options then click next to bei
 ![image-20240127181919920](images/image-20240127181919920.png)
 
 * Then just click save so it uses the default port `5050` or some other random port number it may suggest.
-* 
+
+  
 
 ## Option B: Install using Docker
 
