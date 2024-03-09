@@ -41,3 +41,5 @@
 
 * [HackerRank for SQL Practice](https://www.hackerrank.com/domains/sql)
 
+## Power BI Resources
+(To be added soon) 
