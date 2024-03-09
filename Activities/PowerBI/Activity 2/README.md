@@ -92,6 +92,12 @@ Click on the model icon
 
 ![image-20240309193250876](images/image-20240309193250876.png)
 
+----
+
+## Dashboard 
+
+![image-20240309202418173](images/image-20240309202418173.png)
+
 
 
 
