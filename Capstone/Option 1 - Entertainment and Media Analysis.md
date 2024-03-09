@@ -1,4 +1,6 @@
-<img src="images/2560px-M%26T_Bank_wordmark.svg.png" alt="img" style="zoom:10%;" />
+![img](images/2560px-M%26T_Bank_wordmark.svg.png)
+
+
 
 
 
