@@ -28,7 +28,7 @@ Here are the applied steps so far
 
 * From Remove Rows, select Remove Blank Rows
 * Remove `promo_bin_1` , `promo_bin_2`, `promo_discount_2` columns
-* Replace “ALL” `NA` values with blank
+* Replace “ALL” `NA` values with blank or you can use the word `null`
 
 ![image-20240309165847906](images/image-20240309165847906.png)
 
