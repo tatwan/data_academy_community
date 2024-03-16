@@ -1,0 +1,1359 @@
+index,NAIC,Company Name,Ratio,Upheld Complaints,Question of Fact Complaints,Not Upheld Complaints,Total Complaints,Premiums Written (in Millions),Rank,Filing Year
+0,32786,Progressive Specialty Insurance Company,0.0,0,17,29,46,204.173,1,2016
+1,19976,Amica Mutual Insurance Company,0.0,0,9,8,17,84.769,2,2016
+2,25453,Nationwide Insurance Company of America,0.0,0,9,4,13,65.335,3,2016
+3,15024,Preferred Mutual Insurance Company,0.0,0,3,2,5,62.505,4,2016
+4,10052,Chubb National Insurance Company,0.0,0,1,2,3,46.735,5,2016
+5,43478,Utica National Insurance Company of Texas,0.0,0,4,4,8,43.693,6,2016
+6,16233,Erie Insurance Company of New York,0.0,0,5,2,7,35.072,7,2016
+7,42919,Progressive Northwestern Insurance Company,0.0,0,0,4,4,32.511,8,2016
+8,34460,Maidstone Insurance Company,0.0,0,4,11,15,30.867,9,2016
+9,36145,Travelers Personal Security Insurance Company,0.0,0,1,0,1,30.397,10,2016
+10,25712,Esurance Insurance Company,0.0,0,4,9,13,29.776,11,2016
+11,29742,Integon National Insurance Company,0.0,0,0,5,5,26.249,12,2016
+12,11252,Encompass Home and Auto Insurance Company,0.0,0,1,3,4,23.911,13,2016
+13,30210,Esurance Property and Casualty Insurance Company,0.0,0,3,7,10,23.263,14,2016
+14,13803,Farm Family Casualty Insurance Company,0.0,0,0,1,1,22.796,15,2016
+15,18279,Bankers Standard Insurance Company,0.0,0,0,0,0,20.956,16,2016
+16,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0,0,2,6,8,19.667,17,2016
+17,36137,Travelers Commercial Insurance Company,0.0,0,1,2,3,18.093,18,2016
+18,20303,Great Northern Insurance Company,0.0,0,0,0,0,17.419,19,2016
+19,37915,Essentia Insurance Company,0.0,0,0,0,0,16.934,20,2016
+20,12901,Merchants Preferred Insurance Company,0.0,0,3,0,3,16.023,21,2016
+21,36587,21st Century National Insurance Company,0.0,0,1,2,3,15.572,22,2016
+22,37478,Hartford Insurance Company of the Midwest,0.0,0,0,3,3,15.374,23,2016
+23,32220,21st Century North America Insurance Company,0.0,0,0,2,2,14.056,24,2016
+24,19240,Allstate Indemnity Company,0.0,0,5,4,9,14.044,25,2016
+25,12873,Privilege Underwriters Reciprocal Exchange,0.0,0,0,0,0,14.028,26,2016
+26,29939,Main Street America Assurance Company,0.0,0,0,1,1,12.493,27,2016
+27,34789,21st Century Centennial Insurance Company,0.0,0,1,3,4,11.733,28,2016
+28,40649,Economy Premier Assurance Company,0.0,0,1,1,2,11.331,29,2016
+29,25623,Phoenix Insurance Company,0.0,0,0,0,0,11.177,30,2016
+30,10226,Unitrin Direct Insurance Company,0.0,0,0,1,1,11.008,31,2016
+31,16063,Unitrin Auto and Home Insurance Company,0.0,0,0,1,1,10.772,32,2016
+32,37770,CSAA General Insurance Company,0.0,0,1,2,3,9.918,33,2016
+33,21261,Electric Insurance Company,0.0,0,0,0,0,9.881,34,2016
+34,10071,Encompass Insurance Company of America,0.0,0,1,4,5,9.421,35,2016
+35,12831,"State National Insurance Company, Inc.",0.0,0,0,2,2,9.399,36,2016
+36,12777,Chubb Indemnity Insurance Company,0.0,0,0,0,0,9.336,37,2016
+37,11000,"Sentinel Insurance Company, Ltd.",0.0,0,1,1,2,9.141,38,2016
+38,25976,Utica Mutual Insurance Company,0.0,0,2,0,2,8.919,39,2016
+39,19062,"Automobile Insurance Company of Hartford, Connecticut",0.0,0,0,1,1,8.253,40,2016
+40,23582,Harleysville Insurance Company,0.0,0,0,0,0,8.193,41,2016
+41,28188,TravCo Insurance Company,0.0,0,0,0,0,7.647,42,2016
+42,14788,NGM Insurance Company,0.0,0,0,1,1,7.589,43,2016
+43,15130,Encompass Indemnity Company,0.0,0,0,1,1,7.493,44,2016
+44,12475,Republic-Franklin Insurance Company,0.0,0,0,0,0,7.094,45,2016
+45,14311,Interboro Insurance Company,0.0,0,3,5,8,6.635,46,2016
+46,10677,Cincinnati Insurance Company,0.0,0,0,3,3,6.365,47,2016
+47,10022,Countryway Insurance Company,0.0,0,0,0,0,6.259,48,2016
+48,25682,Travelers Indemnity Company of Connecticut,0.0,0,1,2,3,6.217,49,2016
+49,23469,American Modern Home Insurance Company,0.0,0,0,4,4,5.416,50,2016
+50,12287,Amica Property and Casualty Insurance Company,0.0,0,0,0,0,5.323,51,2016
+51,25615,Charter Oak Fire Insurance Company,0.0,0,1,0,1,4.405,52,2016
+52,10723,Nationwide Assurance Company,0.0,0,0,1,1,4.19,53,2016
+53,43974,21st Century Indemnity Insurance Company,0.0,0,2,0,2,4.109,54,2016
+54,10644,Victoria Automobile Insurance Company,0.0,0,0,3,3,3.764,55,2016
+55,10806,Farmers New Century Insurance Company,0.0,0,1,1,2,3.613,56,2016
+56,22748,Pacific Employers Insurance Company,0.0,0,0,0,0,3.384,57,2016
+57,23728,National General Insurance Company,0.0,0,0,0,0,3.106,58,2016
+58,20796,21st Century Premier Insurance Company,0.0,0,0,1,1,3.019,59,2016
+59,15210,Sterling Insurance Company,0.0,0,0,0,0,2.979,60,2016
+60,27930,Integon Casualty Insurance Company,0.0,0,0,1,1,2.89,61,2016
+61,42404,Liberty Insurance Corporation,0.0,0,2,1,3,2.843,62,2016
+62,31534,Citizens Insurance Company of America,0.0,0,0,1,1,2.841,63,2016
+63,20397,Vigilant Insurance Company,0.0,0,0,0,0,2.77,64,2016
+64,21709,Truck Insurance Exchange,0.0,0,0,0,0,2.749,65,2016
+65,41483,Farmington Casualty Company,0.0,0,1,0,1,2.643,66,2016
+66,40754,Blue Ridge Indemnity Company,0.0,0,0,0,0,2.616,67,2016
+67,22357,Hartford Accident and Indemnity Company,0.0,0,0,0,0,2.55,68,2016
+68,19429,Insurance Company of the State of Pennsylvania,0.0,0,0,0,0,2.546,69,2016
+69,21849,American Automobile Insurance Company,0.0,0,0,0,0,2.433,70,2016
+70,21164,Dairyland Insurance Company,0.0,0,1,3,4,2.425,71,2016
+71,25658,Travelers Indemnity Company,0.0,0,2,3,5,2.403,72,2016
+72,19682,Hartford Fire Insurance Company,0.0,0,0,0,0,2.392,73,2016
+73,41513,Foremost Signature Insurance Company,0.0,0,0,0,0,2.087,74,2016
+74,21865,Associated Indemnity Corporation,0.0,0,0,0,0,1.945,75,2016
+75,23647,Ironshore Indemnity Inc.,0.0,0,0,0,0,1.833,76,2016
+76,19070,Standard Fire Insurance Company,0.0,0,0,0,0,1.805,77,2016
+77,36170,Travelers Casualty Company of Connecticut,0.0,0,0,0,0,1.798,78,2016
+78,22306,Massachusetts Bay Insurance Company,0.0,0,0,0,0,1.741,79,2016
+79,23450,American Family Home Insurance Company,0.0,0,0,0,0,1.719,80,2016
+80,34690,Property and Casualty Insurance Company of Hartford,0.0,0,0,0,0,1.618,81,2016
+81,37648,Permanent General Assurance Corporation,0.0,0,0,0,0,1.584,82,2016
+82,19615,American Reliable Insurance Company,0.0,0,0,0,0,1.416,83,2016
+83,35696,Harleysville Preferred Insurance Company,0.0,0,0,0,0,1.407,84,2016
+84,41491,GEICO Casualty Company,0.0,0,4,5,9,1.364,85,2016
+85,24740,SAFECO Insurance Company of America,0.0,0,0,1,1,1.358,86,2016
+86,39217,QBE Insurance Corporation,0.0,0,1,0,1,1.238,87,2016
+87,20281,Federal Insurance Company,0.0,0,0,0,0,1.199,88,2016
+88,23779,Nationwide Mutual Fire Insurance Company,0.0,0,0,0,0,1.048,89,2016
+89,26093,Nationwide Affinity Insurance Company of America,0.007,1,7,31,39,142.454,90,2016
+90,22055,GEICO Indemnity Company,0.0072,7,96,157,260,965.925,91,2016
+91,11851,Progressive Advanced Insurance Company,0.0082,2,19,44,65,242.487,92,2016
+92,24279,Progressive Max Insurance Company,0.009,1,11,19,31,110.812,93,2016
+93,24260,Progressive Casualty Insurance Company,0.0092,4,26,66,96,432.722,94,2016
+94,25968,USAA Casualty Insurance Company,0.0098,1,9,14,24,101.955,95,2016
+95,35882,GEICO General Insurance Company,0.0109,24,209,270,503,2199.89,96,2016
+96,22063,Government Employees Insurance Company,0.0131,8,57,66,131,611.054,97,2016
+97,40169,Metropolitan Casualty Insurance Company,0.0141,1,0,6,7,71.166,98,2016
+98,14834,New York Central Mutual Fire Insurance Company,0.0151,4,22,49,75,265.121,99,2016
+99,11044,"National General Insurance Online, Inc.",0.0157,1,2,13,16,63.744,100,2016
+100,23035,Liberty Mutual Fire Insurance Company,0.0164,5,16,35,56,304.589,101,2016
+101,30104,Hartford Underwriters Insurance Company,0.0164,1,4,21,26,60.881,102,2016
+102,10212,Allmerica Financial Alliance Insurance Company,0.0166,1,3,4,8,60.228,103,2016
+103,25941,United Services Automobile Association,0.0181,2,4,12,18,110.483,104,2016
+104,36447,LM General Insurance Company,0.0188,5,21,41,67,266.368,105,2016
+105,29688,Allstate Fire and Casualty Insurance Company,0.0196,13,40,87,140,663.974,106,2016
+106,27998,Travelers Home and Marine Insurance Company,0.02,4,6,8,18,200.222,107,2016
+107,34339,Metropolitan Group Property and Casualty Insurance Company,0.0211,2,4,6,12,94.689,108,2016
+108,29424,Hartford Casualty Insurance Company,0.0214,1,1,10,12,46.658,109,2016
+109,25143,State Farm Fire and Casualty Company,0.0225,4,11,31,46,177.741,110,2016
+110,38130,Travelers Personal Insurance Company,0.0257,4,7,7,18,155.487,111,2016
+111,21687,Mid-Century Insurance Company,0.0274,1,3,8,12,36.431,112,2016
+112,26263,Erie Insurance Company,0.0276,2,5,13,20,72.475,113,2016
+113,12583,Adirondack Insurance Exchange,0.0278,2,6,8,16,72.034,114,2016
+114,19232,Allstate Insurance Company,0.0308,23,91,123,237,747.431,115,2016
+115,25178,State Farm Mutual Automobile Insurance Company,0.0314,45,46,130,221,1434.015,116,2016
+116,17230,Allstate Property and Casualty Insurance Company,0.0325,9,27,27,63,276.824,117,2016
+117,10914,Kemper Independence Insurance Company,0.0353,2,6,5,13,56.63,118,2016
+118,21253,Garrison Property and Casualty Insurance Company,0.0354,2,7,11,20,56.532,119,2016
+119,11105,A. Central Insurance Company,0.0355,1,3,3,7,28.149,120,2016
+120,12504,Ameriprise Insurance Company,0.0367,1,5,9,15,27.276,121,2016
+121,23787,Nationwide Mutual Insurance Company,0.0372,3,5,8,16,80.644,122,2016
+122,18600,USAA General Indemnity Company,0.0381,3,5,15,23,78.813,123,2016
+123,19704,American States Insurance Company,0.0392,4,6,10,20,102.038,124,2016
+124,25275,MAPFRE Insurance Company of New York,0.0396,2,1,7,10,50.529,125,2016
+125,33588,First Liberty Insurance Corporation,0.0565,1,4,0,5,17.7,126,2016
+126,11908,Mercury Casualty Company,0.0567,2,10,17,29,35.293,127,2016
+127,38288,Hartford Insurance Company of Illinois,0.0568,2,2,9,13,35.237,128,2016
+128,25674,Travelers Property Casualty Company of America,0.057,3,3,8,14,52.669,129,2016
+129,12130,New South Insurance Company,0.0572,2,4,8,14,34.955,130,2016
+130,40231,Old Dominion Insurance Company,0.062,2,2,3,7,32.264,131,2016
+131,33600,LM Insurance Corporation,0.0627,1,2,7,10,15.956,132,2016
+132,26298,Metropolitan Property and Casualty Insurance Company,0.0683,1,0,1,2,14.642,133,2016
+133,16322,Progressive Direct Insurance Company,0.0756,1,6,8,15,13.219,134,2016
+134,20052,National Liability & Fire Insurance Company,0.0797,2,9,6,17,25.1,135,2016
+135,11215,SAFECO Insurance Company of Indiana,0.0839,3,4,2,9,35.774,136,2016
+136,25909,Unitrin Preferred Insurance Company,0.0986,1,1,0,2,10.139,137,2016
+137,10111,American Bankers Insurance Company of Florida,0.143,1,0,1,2,6.995,138,2016
+138,23060,Tri-State Consumer Insurance Company,0.1439,2,4,25,31,13.899,139,2016
+139,25232,21st Century Advantage Insurance Company,0.1508,1,0,0,1,6.633,140,2016
+140,13242,Titan Indemnity Company,0.1642,1,2,3,6,6.089,141,2016
+141,42447,National General Assurance Company,0.1769,1,0,0,1,5.651,142,2016
+142,10839,Country-Wide Insurance Company,0.1798,21,48,95,164,116.811,143,2016
+143,20230,Central Mutual Insurance Company,0.1837,1,0,0,1,5.443,144,2016
+144,19402,AIG Property Casualty Company,0.1919,5,1,5,11,26.058,145,2016
+145,29068,IDS Property Casualty Insurance Company,0.2534,3,2,4,9,11.837,146,2016
+146,23833,21st Century Security Insurance Company,0.2665,1,2,0,3,3.752,147,2016
+147,10072,Encompass Property and Casualty Company,0.2847,1,0,0,1,3.513,148,2016
+148,42889,Victoria Fire & Casualty Company,0.5891,2,1,3,6,3.395,149,2016
+149,10881,Unitrin Advantage Insurance Company,0.6664,2,1,2,5,3.001,150,2016
+150,23760,Nationwide General Insurance Company,0.7495,1,0,0,1,1.334,151,2016
+151,27120,Trumbull Insurance Company,0.78,1,0,1,2,1.282,152,2016
+152,10921,CSAA Fire & Casualty Insurance Company,0.8476,7,2,4,13,8.259,153,2016
+153,38628,Progressive Northern Insurance Company,0.877,2,2,2,6,2.28,154,2016
+154,18058,Philadelphia Indemnity Insurance Company,1.2198,5,1,4,10,4.099,155,2016
+155,37877,Nationwide Property and Casualty Insurance Company,1.8117,1,0,1,2,0.552,156,2016
+156,29459,Twin City Fire Insurance Company,2.2155,3,0,0,3,1.354,157,2016
+157,24198,Peerless Insurance Company,10.3314,2,1,1,4,0.194,158,2016
+158,32786,Progressive Specialty Insurance Company,0.0,0,17,29,46,204.173,1,2015
+159,19976,Amica Mutual Insurance Company,0.0,0,9,8,17,84.769,2,2015
+160,25453,Nationwide Insurance Company of America,0.0,0,9,4,13,65.335,3,2015
+161,15024,Preferred Mutual Insurance Company,0.0,0,3,2,5,62.505,4,2015
+162,10052,Chubb National Insurance Company,0.0,0,1,2,3,46.735,5,2015
+163,43478,Utica National Insurance Company of Texas,0.0,0,4,4,8,43.693,6,2015
+164,16233,Erie Insurance Company of New York,0.0,0,5,2,7,35.072,7,2015
+165,42919,Progressive Northwestern Insurance Company,0.0,0,0,4,4,32.511,8,2015
+166,34460,Maidstone Insurance Company,0.0,0,4,11,15,30.867,9,2015
+167,36145,Travelers Personal Security Insurance Company,0.0,0,1,0,1,30.397,10,2015
+168,25712,Esurance Insurance Company,0.0,0,4,9,13,29.776,11,2015
+169,29742,Integon National Insurance Company,0.0,0,0,5,5,26.249,12,2015
+170,11252,Encompass Home and Auto Insurance Company,0.0,0,1,3,4,23.911,13,2015
+171,30210,Esurance Property and Casualty Insurance Company,0.0,0,3,7,10,23.263,14,2015
+172,13803,Farm Family Casualty Insurance Company,0.0,0,0,1,1,22.796,15,2015
+173,18279,Bankers Standard Insurance Company,0.0,0,0,0,0,20.956,16,2015
+174,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0,0,2,6,8,19.667,17,2015
+175,36137,Travelers Commercial Insurance Company,0.0,0,1,2,3,18.093,18,2015
+176,20303,Great Northern Insurance Company,0.0,0,0,0,0,17.419,19,2015
+177,37915,Essentia Insurance Company,0.0,0,0,0,0,16.934,20,2015
+178,12901,Merchants Preferred Insurance Company,0.0,0,3,0,3,16.023,21,2015
+179,36587,21st Century National Insurance Company,0.0,0,1,2,3,15.572,22,2015
+180,37478,Hartford Insurance Company of the Midwest,0.0,0,0,3,3,15.374,23,2015
+181,32220,21st Century North America Insurance Company,0.0,0,0,2,2,14.056,24,2015
+182,19240,Allstate Indemnity Company,0.0,0,5,4,9,14.044,25,2015
+183,12873,Privilege Underwriters Reciprocal Exchange,0.0,0,0,0,0,14.028,26,2015
+184,29939,Main Street America Assurance Company,0.0,0,0,1,1,12.493,27,2015
+185,34789,21st Century Centennial Insurance Company,0.0,0,1,3,4,11.733,28,2015
+186,40649,Economy Premier Assurance Company,0.0,0,1,1,2,11.331,29,2015
+187,25623,Phoenix Insurance Company,0.0,0,0,0,0,11.177,30,2015
+188,10226,Unitrin Direct Insurance Company,0.0,0,0,1,1,11.008,31,2015
+189,16063,Unitrin Auto and Home Insurance Company,0.0,0,0,1,1,10.772,32,2015
+190,37770,CSAA General Insurance Company,0.0,0,1,2,3,9.918,33,2015
+191,21261,Electric Insurance Company,0.0,0,0,0,0,9.881,34,2015
+192,10071,Encompass Insurance Company of America,0.0,0,1,4,5,9.421,35,2015
+193,12831,"State National Insurance Company, Inc.",0.0,0,0,2,2,9.399,36,2015
+194,12777,Chubb Indemnity Insurance Company,0.0,0,0,0,0,9.336,37,2015
+195,11000,"Sentinel Insurance Company, Ltd.",0.0,0,1,1,2,9.141,38,2015
+196,25976,Utica Mutual Insurance Company,0.0,0,2,0,2,8.919,39,2015
+197,19062,"Automobile Insurance Company of Hartford, Connecticut",0.0,0,0,1,1,8.253,40,2015
+198,23582,Harleysville Insurance Company,0.0,0,0,0,0,8.193,41,2015
+199,28188,TravCo Insurance Company,0.0,0,0,0,0,7.647,42,2015
+200,14788,NGM Insurance Company,0.0,0,0,1,1,7.589,43,2015
+201,15130,Encompass Indemnity Company,0.0,0,0,1,1,7.493,44,2015
+202,12475,Republic-Franklin Insurance Company,0.0,0,0,0,0,7.094,45,2015
+203,14311,Interboro Insurance Company,0.0,0,3,5,8,6.635,46,2015
+204,10677,Cincinnati Insurance Company,0.0,0,0,3,3,6.365,47,2015
+205,10022,Countryway Insurance Company,0.0,0,0,0,0,6.259,48,2015
+206,25682,Travelers Indemnity Company of Connecticut,0.0,0,1,2,3,6.217,49,2015
+207,23469,American Modern Home Insurance Company,0.0,0,0,4,4,5.416,50,2015
+208,12287,Amica Property and Casualty Insurance Company,0.0,0,0,0,0,5.323,51,2015
+209,25615,Charter Oak Fire Insurance Company,0.0,0,1,0,1,4.405,52,2015
+210,10723,Nationwide Assurance Company,0.0,0,0,1,1,4.19,53,2015
+211,43974,21st Century Indemnity Insurance Company,0.0,0,2,0,2,4.109,54,2015
+212,10644,Victoria Automobile Insurance Company,0.0,0,0,3,3,3.764,55,2015
+213,10806,Farmers New Century Insurance Company,0.0,0,1,1,2,3.613,56,2015
+214,22748,Pacific Employers Insurance Company,0.0,0,0,0,0,3.384,57,2015
+215,23728,National General Insurance Company,0.0,0,0,0,0,3.106,58,2015
+216,20796,21st Century Premier Insurance Company,0.0,0,0,1,1,3.019,59,2015
+217,15210,Sterling Insurance Company,0.0,0,0,0,0,2.979,60,2015
+218,27930,Integon Casualty Insurance Company,0.0,0,0,1,1,2.89,61,2015
+219,42404,Liberty Insurance Corporation,0.0,0,2,1,3,2.843,62,2015
+220,31534,Citizens Insurance Company of America,0.0,0,0,1,1,2.841,63,2015
+221,20397,Vigilant Insurance Company,0.0,0,0,0,0,2.77,64,2015
+222,21709,Truck Insurance Exchange,0.0,0,0,0,0,2.749,65,2015
+223,41483,Farmington Casualty Company,0.0,0,1,0,1,2.643,66,2015
+224,40754,Blue Ridge Indemnity Company,0.0,0,0,0,0,2.616,67,2015
+225,22357,Hartford Accident and Indemnity Company,0.0,0,0,0,0,2.55,68,2015
+226,19429,Insurance Company of the State of Pennsylvania,0.0,0,0,0,0,2.546,69,2015
+227,21849,American Automobile Insurance Company,0.0,0,0,0,0,2.433,70,2015
+228,21164,Dairyland Insurance Company,0.0,0,1,3,4,2.425,71,2015
+229,25658,Travelers Indemnity Company,0.0,0,2,3,5,2.403,72,2015
+230,19682,Hartford Fire Insurance Company,0.0,0,0,0,0,2.392,73,2015
+231,41513,Foremost Signature Insurance Company,0.0,0,0,0,0,2.087,74,2015
+232,21865,Associated Indemnity Corporation,0.0,0,0,0,0,1.945,75,2015
+233,23647,Ironshore Indemnity Inc.,0.0,0,0,0,0,1.833,76,2015
+234,19070,Standard Fire Insurance Company,0.0,0,0,0,0,1.805,77,2015
+235,36170,Travelers Casualty Company of Connecticut,0.0,0,0,0,0,1.798,78,2015
+236,22306,Massachusetts Bay Insurance Company,0.0,0,0,0,0,1.741,79,2015
+237,23450,American Family Home Insurance Company,0.0,0,0,0,0,1.719,80,2015
+238,34690,Property and Casualty Insurance Company of Hartford,0.0,0,0,0,0,1.618,81,2015
+239,37648,Permanent General Assurance Corporation,0.0,0,0,0,0,1.584,82,2015
+240,19615,American Reliable Insurance Company,0.0,0,0,0,0,1.416,83,2015
+241,35696,Harleysville Preferred Insurance Company,0.0,0,0,0,0,1.407,84,2015
+242,41491,GEICO Casualty Company,0.0,0,4,5,9,1.364,85,2015
+243,24740,SAFECO Insurance Company of America,0.0,0,0,1,1,1.358,86,2015
+244,39217,QBE Insurance Corporation,0.0,0,1,0,1,1.238,87,2015
+245,20281,Federal Insurance Company,0.0,0,0,0,0,1.199,88,2015
+246,23779,Nationwide Mutual Fire Insurance Company,0.0,0,0,0,0,1.048,89,2015
+247,26093,Nationwide Affinity Insurance Company of America,0.007,1,7,31,39,142.454,90,2015
+248,22055,GEICO Indemnity Company,0.0072,7,96,157,260,965.925,91,2015
+249,11851,Progressive Advanced Insurance Company,0.0082,2,19,44,65,242.487,92,2015
+250,24279,Progressive Max Insurance Company,0.009,1,11,19,31,110.812,93,2015
+251,24260,Progressive Casualty Insurance Company,0.0092,4,26,66,96,432.722,94,2015
+252,25968,USAA Casualty Insurance Company,0.0098,1,9,14,24,101.955,95,2015
+253,35882,GEICO General Insurance Company,0.0109,24,209,270,503,2199.89,96,2015
+254,22063,Government Employees Insurance Company,0.0131,8,57,66,131,611.054,97,2015
+255,40169,Metropolitan Casualty Insurance Company,0.0141,1,0,6,7,71.166,98,2015
+256,14834,New York Central Mutual Fire Insurance Company,0.0151,4,22,49,75,265.121,99,2015
+257,11044,"National General Insurance Online, Inc.",0.0157,1,2,13,16,63.744,100,2015
+258,23035,Liberty Mutual Fire Insurance Company,0.0164,5,16,35,56,304.589,101,2015
+259,30104,Hartford Underwriters Insurance Company,0.0164,1,4,21,26,60.881,102,2015
+260,10212,Allmerica Financial Alliance Insurance Company,0.0166,1,3,4,8,60.228,103,2015
+261,25941,United Services Automobile Association,0.0181,2,4,12,18,110.483,104,2015
+262,36447,LM General Insurance Company,0.0188,5,21,41,67,266.368,105,2015
+263,29688,Allstate Fire and Casualty Insurance Company,0.0196,13,40,87,140,663.974,106,2015
+264,27998,Travelers Home and Marine Insurance Company,0.02,4,6,8,18,200.222,107,2015
+265,34339,Metropolitan Group Property and Casualty Insurance Company,0.0211,2,4,6,12,94.689,108,2015
+266,29424,Hartford Casualty Insurance Company,0.0214,1,1,10,12,46.658,109,2015
+267,25143,State Farm Fire and Casualty Company,0.0225,4,11,31,46,177.741,110,2015
+268,38130,Travelers Personal Insurance Company,0.0257,4,7,7,18,155.487,111,2015
+269,21687,Mid-Century Insurance Company,0.0274,1,3,8,12,36.431,112,2015
+270,26263,Erie Insurance Company,0.0276,2,5,13,20,72.475,113,2015
+271,12583,Adirondack Insurance Exchange,0.0278,2,6,8,16,72.034,114,2015
+272,19232,Allstate Insurance Company,0.0308,23,91,123,237,747.431,115,2015
+273,25178,State Farm Mutual Automobile Insurance Company,0.0314,45,46,130,221,1434.015,116,2015
+274,17230,Allstate Property and Casualty Insurance Company,0.0325,9,27,27,63,276.824,117,2015
+275,10914,Kemper Independence Insurance Company,0.0353,2,6,5,13,56.63,118,2015
+276,21253,Garrison Property and Casualty Insurance Company,0.0354,2,7,11,20,56.532,119,2015
+277,11105,A. Central Insurance Company,0.0355,1,3,3,7,28.149,120,2015
+278,12504,Ameriprise Insurance Company,0.0367,1,5,9,15,27.276,121,2015
+279,23787,Nationwide Mutual Insurance Company,0.0372,3,5,8,16,80.644,122,2015
+280,18600,USAA General Indemnity Company,0.0381,3,5,15,23,78.813,123,2015
+281,19704,American States Insurance Company,0.0392,4,6,10,20,102.038,124,2015
+282,25275,MAPFRE Insurance Company of New York,0.0396,2,1,7,10,50.529,125,2015
+283,33588,First Liberty Insurance Corporation,0.0565,1,4,0,5,17.7,126,2015
+284,11908,Mercury Casualty Company,0.0567,2,10,17,29,35.293,127,2015
+285,38288,Hartford Insurance Company of Illinois,0.0568,2,2,9,13,35.237,128,2015
+286,25674,Travelers Property Casualty Company of America,0.057,3,3,8,14,52.669,129,2015
+287,12130,New South Insurance Company,0.0572,2,4,8,14,34.955,130,2015
+288,40231,Old Dominion Insurance Company,0.062,2,2,3,7,32.264,131,2015
+289,33600,LM Insurance Corporation,0.0627,1,2,7,10,15.956,132,2015
+290,26298,Metropolitan Property and Casualty Insurance Company,0.0683,1,0,1,2,14.642,133,2015
+291,16322,Progressive Direct Insurance Company,0.0756,1,6,8,15,13.219,134,2015
+292,20052,National Liability & Fire Insurance Company,0.0797,2,9,6,17,25.1,135,2015
+293,11215,SAFECO Insurance Company of Indiana,0.0839,3,4,2,9,35.774,136,2015
+294,25909,Unitrin Preferred Insurance Company,0.0986,1,1,0,2,10.139,137,2015
+295,10111,American Bankers Insurance Company of Florida,0.143,1,0,1,2,6.995,138,2015
+296,23060,Tri-State Consumer Insurance Company,0.1439,2,4,25,31,13.899,139,2015
+297,25232,21st Century Advantage Insurance Company,0.1508,1,0,0,1,6.633,140,2015
+298,13242,Titan Indemnity Company,0.1642,1,2,3,6,6.089,141,2015
+299,42447,National General Assurance Company,0.1769,1,0,0,1,5.651,142,2015
+300,10839,Country-Wide Insurance Company,0.1798,21,48,95,164,116.811,143,2015
+301,20230,Central Mutual Insurance Company,0.1837,1,0,0,1,5.443,144,2015
+302,19402,AIG Property Casualty Company,0.1919,5,1,5,11,26.058,145,2015
+303,29068,IDS Property Casualty Insurance Company,0.2534,3,2,4,9,11.837,146,2015
+304,23833,21st Century Security Insurance Company,0.2665,1,2,0,3,3.752,147,2015
+305,10072,Encompass Property and Casualty Company,0.2847,1,0,0,1,3.513,148,2015
+306,42889,Victoria Fire & Casualty Company,0.5891,2,1,3,6,3.395,149,2015
+307,10881,Unitrin Advantage Insurance Company,0.6664,2,1,2,5,3.001,150,2015
+308,23760,Nationwide General Insurance Company,0.7495,1,0,0,1,1.334,151,2015
+309,27120,Trumbull Insurance Company,0.78,1,0,1,2,1.282,152,2015
+310,10921,CSAA Fire & Casualty Insurance Company,0.8476,7,2,4,13,8.259,153,2015
+311,38628,Progressive Northern Insurance Company,0.877,2,2,2,6,2.28,154,2015
+312,18058,Philadelphia Indemnity Insurance Company,1.2198,5,1,4,10,4.099,155,2015
+313,37877,Nationwide Property and Casualty Insurance Company,1.8117,1,0,1,2,0.552,156,2015
+314,29459,Twin City Fire Insurance Company,2.2155,3,0,0,3,1.354,157,2015
+315,24198,Peerless Insurance Company,10.3314,2,1,1,4,0.194,158,2015
+316,24279,Progressive Max Insurance Company,0.0,0,8,21,29,70.055,1,2014
+317,10212,Allmerica Financial Alliance Insurance Company,0.0,0,0,9,9,47.319,2,2014
+318,10052,Chubb National Insurance Company,0.0,0,0,1,1,37.431,3,2014
+319,36137,Travelers Commercial Insurance Company,0.0,0,0,5,5,27.99,4,2014
+320,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0,0,2,8,10,23.589,5,2014
+321,11252,Encompass Home and Auto Insurance Company,0.0,0,2,2,4,22.545,6,2014
+322,38628,Progressive Northern Insurance Company,0.0,0,3,2,5,21.823,7,2014
+323,18279,Bankers Standard Insurance Company,0.0,0,0,0,0,21.683,8,2014
+324,20303,Great Northern Insurance Company,0.0,0,0,0,0,20.432,9,2014
+325,11044,"National General Insurance Online, Inc.",0.0,0,1,3,4,17.221,10,2014
+326,16233,Erie Insurance Company of New York,0.0,0,4,3,7,16.837,11,2014
+327,29939,Main Street America Assurance Company,0.0,0,0,7,7,16.761,12,2014
+328,38130,Travelers Personal Insurance Company,0.0,0,0,0,0,16.253,13,2014
+329,37915,Essentia Insurance Company,0.0,0,0,2,2,14.573,14,2014
+330,40649,Economy Premier Assurance Company,0.0,0,0,0,0,13.632,15,2014
+331,33600,LM Insurance Corporation,0.0,0,1,1,2,12.655,16,2014
+332,10071,Encompass Insurance Company of America,0.0,0,0,4,4,12.27,17,2014
+333,19062,"Automobile Insurance Company of Hartford, Connecticut",0.0,0,0,0,0,11.961,18,2014
+334,12777,Chubb Indemnity Insurance Company,0.0,0,1,0,1,11.814,19,2014
+335,25232,21st Century Advantage Insurance Company,0.0,0,3,7,10,11.422,20,2014
+336,28188,TravCo Insurance Company,0.0,0,0,1,1,11.362,21,2014
+337,15130,Encompass Indemnity Company,0.0,0,2,1,3,10.969,22,2014
+338,10226,Unitrin Direct Insurance Company,0.0,0,3,1,4,10.836,23,2014
+339,21261,Electric Insurance Company,0.0,0,0,4,4,9.612,24,2014
+340,25682,Travelers Indemnity Company of Connecticut,0.0,0,1,2,3,9.472,25,2014
+341,34460,Maidstone Insurance Company,0.0,0,1,4,5,9.312,26,2014
+342,34479,Maidstone Insurance Company,0.0,0,1,4,5,9.312,26,2014
+343,12873,Privilege Underwriters Reciprocal Exchange,0.0,0,0,1,1,9.086,27,2014
+344,27930,Integon Casualty Insurance Company,0.0,0,1,4,5,7.116,28,2014
+345,42447,National General Assurance Company,0.0,0,1,6,7,6.793,29,2014
+346,37834,Progressive Preferred Insurance Company,0.0,0,4,1,5,6.765,30,2014
+347,10111,American Bankers Insurance Company of Florida,0.0,0,0,1,1,6.549,31,2014
+348,25615,Charter Oak Fire Insurance Company,0.0,0,0,0,0,6.548,32,2014
+349,37877,Nationwide Property and Casualty Insurance Company,0.0,0,0,0,0,6.367,33,2014
+350,43974,21st Century Indemnity Insurance Company,0.0,0,2,3,5,6.339,34,2014
+351,10022,Countryway Insurance Company,0.0,0,1,0,1,5.937,35,2014
+352,20230,Central Mutual Insurance Company,0.0,0,0,0,0,5.807,36,2014
+353,21849,American Automobile Insurance Company,0.0,0,0,0,0,5.389,37,2014
+354,21709,Truck Insurance Exchange,0.0,0,0,0,0,4.976,38,2014
+355,21687,Mid-Century Insurance Company,0.0,0,0,2,2,4.602,39,2014
+356,10072,Encompass Property and Casualty Company,0.0,0,1,0,1,4.551,40,2014
+357,20796,21st Century Premier Insurance Company,0.0,0,0,4,4,4.262,41,2014
+358,21865,Associated Indemnity Corporation,0.0,0,0,0,0,3.935,42,2014
+359,10723,Nationwide Assurance Company,0.0,0,0,1,1,3.896,43,2014
+360,36145,Travelers Personal Security Insurance Company,0.0,0,0,0,0,3.88,44,2014
+361,10881,Unitrin Advantage Insurance Company,0.0,0,2,4,6,3.835,45,2014
+362,20397,Vigilant Insurance Company,0.0,0,0,0,0,3.481,46,2014
+363,42889,Victoria Fire & Casualty Company,0.0,0,1,4,5,3.265,47,2014
+364,23728,National General Insurance Company,0.0,0,1,0,1,3.092,48,2014
+365,40754,Blue Ridge Indemnity Company,0.0,0,0,1,1,2.974,49,2014
+366,22306,Massachusetts Bay Insurance Company,0.0,0,1,2,3,2.91,50,2014
+367,15210,Sterling Insurance Company,0.0,0,0,0,0,2.757,51,2014
+368,29742,Integon National Insurance Company,0.0,0,0,2,2,2.741,52,2014
+369,19070,Standard Fire Insurance Company,0.0,0,0,1,1,2.731,53,2014
+370,10677,Cincinnati Insurance Company,0.0,0,0,1,1,2.637,54,2014
+371,36170,Travelers Casualty Company of Connecticut,0.0,0,0,0,0,2.589,55,2014
+372,21164,Dairyland Insurance Company,0.0,0,1,0,1,2.386,56,2014
+373,41513,Foremost Signature Insurance Company,0.0,0,1,2,3,2.35,57,2014
+374,27120,Trumbull Insurance Company,0.0,0,1,1,2,2.327,58,2014
+375,23450,American Family Home Insurance Company,0.0,0,0,1,1,2.137,59,2014
+376,37770,CSAA General Insurance Company,0.0,0,0,0,0,2.116,60,2014
+377,34690,Property and Casualty Insurance Company of Hartford,0.0,0,1,0,1,1.94,61,2014
+378,35696,Harleysville Preferred Insurance Company,0.0,0,1,1,2,1.876,62,2014
+379,21881,National Surety Corporation,0.0,0,0,0,0,1.821,63,2014
+380,10674,Harleysville Insurance Company of New York,0.0,0,0,0,0,1.548,64,2014
+381,41491,GEICO Casualty Company,0.0,0,24,47,71,1.456,65,2014
+382,20281,Federal Insurance Company,0.0,0,0,0,0,1.436,66,2014
+383,19615,American Reliable Insurance Company,0.0,0,1,1,2,1.413,67,2014
+384,20133,Response Worldwide Direct Auto Insurance Company,0.0,0,0,0,0,1.333,68,2014
+385,21873,Fireman's Fund Insurance Company,0.0,0,0,1,1,1.166,69,2014
+386,22225,21st Century Preferred Insurance Company,0.0,0,1,0,1,1.095,70,2014
+387,23582,Harleysville Insurance Company,0.0,0,0,0,0,1.067,71,2014
+388,14834,New York Central Mutual Fire Insurance Company,0.0039,1,34,62,97,256.985,72,2014
+389,22063,Government Employees Insurance Company,0.0108,6,60,60,126,554.002,73,2014
+390,23787,Nationwide Mutual Insurance Company,0.011,1,6,16,23,90.605,74,2014
+391,22055,GEICO Indemnity Company,0.012,10,110,166,286,830.018,75,2014
+392,29424,Hartford Casualty Insurance Company,0.0159,1,6,12,19,62.792,76,2014
+393,15024,Preferred Mutual Insurance Company,0.016,1,15,9,25,62.514,77,2014
+394,40169,Metropolitan Casualty Insurance Company,0.0213,2,7,15,24,94.098,78,2014
+395,32786,Progressive Specialty Insurance Company,0.0226,4,21,28,53,176.699,79,2014
+396,35882,GEICO General Insurance Company,0.0228,43,255,333,631,1882.586,80,2014
+397,29688,Allstate Fire and Casualty Insurance Company,0.0231,8,8,30,46,346.324,81,2014
+398,27998,Travelers Home and Marine Insurance Company,0.0235,7,20,33,60,297.877,82,2014
+399,25674,Travelers Property Casualty Company of America,0.0252,2,4,6,12,79.26,83,2014
+400,36447,LM General Insurance Company,0.027,4,11,16,31,148.098,84,2014
+401,43478,Utica National Insurance Company of Texas,0.0272,1,3,3,7,36.742,85,2014
+402,40231,Old Dominion Insurance Company,0.0292,1,3,5,9,34.237,86,2014
+403,42919,Progressive Northwestern Insurance Company,0.0298,1,3,5,9,33.519,87,2014
+404,24260,Progressive Casualty Insurance Company,0.03,10,39,84,133,333.292,88,2014
+405,10914,Kemper Independence Insurance Company,0.0325,2,5,15,22,61.508,89,2014
+406,11851,Progressive Advanced Insurance Company,0.0385,6,10,32,48,155.799,90,2014
+407,20052,National Liability & Fire Insurance Company,0.039,2,22,25,49,51.301,91,2014
+408,12901,Merchants Preferred Insurance Company,0.04,1,6,5,12,25.009,92,2014
+409,26263,Erie Insurance Company,0.0405,3,4,13,20,74.103,93,2014
+410,25178,State Farm Mutual Automobile Insurance Company,0.0427,54,87,187,328,1264.263,94,2014
+411,34339,Metropolitan Group Property and Casualty Insurance Company,0.0439,4,5,14,23,91.135,95,2014
+412,25453,Nationwide Insurance Company of America,0.0447,4,0,6,10,89.573,96,2014
+413,36587,21st Century National Insurance Company,0.046,1,6,8,15,21.737,97,2014
+414,26093,Nationwide Affinity Insurance Company of America,0.0478,5,7,34,46,104.556,98,2014
+415,34789,21st Century Centennial Insurance Company,0.0505,1,1,5,7,19.795,99,2014
+416,12583,Adirondack Insurance Exchange,0.0514,4,4,12,20,77.762,100,2014
+417,25143,State Farm Fire and Casualty Company,0.0561,9,8,36,53,160.309,101,2014
+418,30104,Hartford Underwriters Insurance Company,0.0573,3,4,18,25,52.341,102,2014
+419,25623,Phoenix Insurance Company,0.0591,1,0,1,2,16.92,103,2014
+420,11000,"Sentinel Insurance Company, Ltd.",0.0598,1,3,3,7,16.73,104,2014
+421,25275,MAPFRE Insurance Company of New York,0.0632,3,6,10,19,47.442,105,2014
+422,16063,Unitrin Auto and Home Insurance Company,0.064,1,1,0,2,15.633,106,2014
+423,38288,Hartford Insurance Company of Illinois,0.0644,3,8,8,19,46.602,107,2014
+424,30210,Esurance Property and Casualty Insurance Company,0.0655,1,1,7,9,15.276,108,2014
+425,23035,Liberty Mutual Fire Insurance Company,0.0664,27,54,77,158,406.889,109,2014
+426,12130,New South Insurance Company,0.07,6,9,24,39,85.706,110,2014
+427,29068,IDS Property Casualty Insurance Company,0.0712,1,6,9,16,14.038,111,2014
+428,17230,Allstate Property and Casualty Insurance Company,0.073,30,27,70,127,410.957,112,2014
+429,19704,American States Insurance Company,0.0737,6,8,9,23,81.406,113,2014
+430,19976,Amica Mutual Insurance Company,0.0747,7,2,16,25,93.744,114,2014
+431,25968,USAA Casualty Insurance Company,0.0765,7,13,17,37,91.532,115,2014
+432,19232,Allstate Insurance Company,0.0878,76,136,251,463,865.759,116,2014
+433,13803,Farm Family Casualty Insurance Company,0.0879,2,4,6,12,22.765,117,2014
+434,37478,Hartford Insurance Company of the Midwest,0.0989,2,1,4,7,20.219,118,2014
+435,23833,21st Century Security Insurance Company,0.1057,1,4,8,13,9.458,119,2014
+436,12504,Ameriprise Insurance Company,0.1061,3,5,19,27,28.288,120,2014
+437,18600,USAA General Indemnity Company,0.1069,6,14,16,36,56.145,121,2014
+438,21253,Garrison Property and Casualty Insurance Company,0.1105,5,6,14,25,45.23,122,2014
+439,14788,NGM Insurance Company,0.1119,1,1,2,4,8.939,123,2014
+440,12475,Republic-Franklin Insurance Company,0.1183,1,0,0,1,8.452,124,2014
+441,33588,First Liberty Insurance Corporation,0.1261,3,3,7,13,23.795,125,2014
+442,11105,A. Central Insurance Company,0.131,4,14,20,38,30.523,126,2014
+443,25941,United Services Automobile Association,0.1316,14,13,13,40,106.382,127,2014
+444,23060,Tri-State Consumer Insurance Company,0.1354,2,5,27,34,14.774,128,2014
+445,11215,SAFECO Insurance Company of Indiana,0.1358,6,1,12,19,44.18,129,2014
+446,34460,Maidstone Insurance Company,0.1376,1,7,13,21,7.265,130,2014
+447,26298,Metropolitan Property and Casualty Insurance Company,0.1385,1,1,1,3,7.22,131,2014
+448,14311,Interboro Insurance Company,0.1389,1,1,8,10,7.198,132,2014
+449,25712,Esurance Insurance Company,0.1463,5,4,14,23,34.184,133,2014
+450,25909,Unitrin Preferred Insurance Company,0.1479,2,0,1,3,13.524,134,2014
+451,11908,Mercury Casualty Company,0.1542,7,24,16,47,45.394,135,2014
+452,32220,21st Century North America Insurance Company,0.1558,3,6,6,15,19.253,136,2014
+453,25976,Utica Mutual Insurance Company,0.1566,1,0,1,2,6.388,137,2014
+454,23469,American Modern Home Insurance Company,0.16,1,0,5,6,6.25,138,2014
+455,13242,Titan Indemnity Company,0.1639,1,0,2,3,6.1,139,2014
+456,19402,AIG Property Casualty Company,0.1711,4,0,3,7,23.385,140,2014
+457,10644,Victoria Automobile Insurance Company,0.1867,1,2,1,4,5.357,141,2014
+458,41483,Farmington Casualty Company,0.1879,2,0,8,10,10.644,142,2014
+459,16322,Progressive Direct Insurance Company,0.2062,4,9,20,33,19.399,143,2014
+460,31534,Citizens Insurance Company of America,0.2235,1,0,1,2,4.474,144,2014
+461,10806,Farmers New Century Insurance Company,0.3762,2,1,4,7,5.316,145,2014
+462,10921,CSAA Fire & Casualty Insurance Company,0.3798,5,0,7,12,13.164,146,2014
+463,42404,Liberty Insurance Corporation,0.3809,2,4,0,6,5.25,147,2014
+464,23779,Nationwide Mutual Fire Insurance Company,0.4649,1,2,1,4,2.151,148,2014
+465,10839,Country-Wide Insurance Company,0.5109,59,88,180,327,115.482,149,2014
+466,10645,Drivers Insurance Company,0.5136,1,1,3,5,1.947,150,2014
+467,23647,Ironshore Indemnity Inc.,0.5315,1,1,0,2,1.882,151,2014
+468,39217,QBE Insurance Corporation,0.5364,3,9,19,31,5.592,152,2014
+469,23760,Nationwide General Insurance Company,0.5906,4,3,1,8,6.773,153,2014
+470,19240,Allstate Indemnity Company,0.6104,4,2,4,10,6.553,154,2014
+471,26085,Warner Insurance Company,0.6671,1,1,2,4,1.499,155,2014
+472,36161,Travelers Property Casualty Insurance Company,0.7006,1,2,7,10,1.427,156,2014
+473,25666,Travelers Indemnity Company of America,0.7548,1,2,1,4,1.325,157,2014
+474,19682,Hartford Fire Insurance Company,0.8711,3,0,2,5,3.444,158,2014
+475,24198,Peerless Insurance Company,0.9597,5,3,4,12,5.21,159,2014
+476,25658,Travelers Indemnity Company,1.1243,6,3,6,15,5.337,160,2014
+477,22357,Hartford Accident and Indemnity Company,1.291,5,1,3,9,3.873,161,2014
+478,18058,Philadelphia Indemnity Insurance Company,1.5302,5,0,3,8,3.268,162,2014
+479,24740,SAFECO Insurance Company of America,2.1516,4,0,8,12,1.859,163,2014
+480,11738,Infinity Auto Insurance Company,2.6164,1,0,2,3,0.382,164,2014
+481,12360,Ocean Harbor Casualty Insurance Company,3.3345,3,1,4,8,0.9,165,2014
+482,37648,Permanent General Assurance Corporation,3.3384,5,3,2,10,1.498,166,2014
+483,23329,Merchants Mutual Insurance Company,8.6214,2,2,2,6,0.232,167,2014
+484,29459,Twin City Fire Insurance Company,19.1109,23,0,0,23,1.204,168,2014
+485,23841,New Hampshire Insurance Company,1364.8772,6,1,3,10,0.004,169,2014
+486,36447,LM General Insurance Company,0.0,0,6,3,9,73.566,1,2013
+487,26263,Erie Insurance Company,0.0,0,0,6,6,73.112,2,2013
+488,11105,A. Central Insurance Company,0.0,0,9,14,23,42.694,3,2013
+489,40231,Old Dominion Insurance Company,0.0,0,1,4,5,35.315,4,2013
+490,43478,Utica National Insurance Company of Texas,0.0,0,2,3,5,32.385,5,2013
+491,10052,Chubb National Insurance Company,0.0,0,0,0,0,31.337,6,2013
+492,36137,Travelers Commercial Insurance Company,0.0,0,2,2,4,28.653,7,2013
+493,13803,Farm Family Casualty Insurance Company,0.0,0,2,5,7,23.612,8,2013
+494,11000,"Sentinel Insurance Company, Ltd.",0.0,0,2,2,4,23.212,9,2013
+495,37834,Progressive Preferred Insurance Company,0.0,0,1,5,6,22.63,10,2013
+496,20303,Great Northern Insurance Company,0.0,0,1,1,2,22.286,11,2013
+497,18279,Bankers Standard Insurance Company,0.0,0,0,1,1,21.239,12,2013
+498,36587,21st Century National Insurance Company,0.0,0,1,5,6,19.739,13,2013
+499,29939,Main Street America Assurance Company,0.0,0,2,0,2,19.539,14,2013
+500,25623,Phoenix Insurance Company,0.0,0,0,3,3,19.53,15,2013
+501,11252,Encompass Home and Auto Insurance Company,0.0,0,1,0,1,19.379,16,2013
+502,25232,21st Century Advantage Insurance Company,0.0,0,0,5,5,15.364,17,2013
+503,40649,Economy Premier Assurance Company,0.0,0,0,0,0,14.788,18,2013
+504,37915,Essentia Insurance Company,0.0,0,0,0,0,14.006,19,2013
+505,10071,Encompass Insurance Company of America,0.0,0,4,4,8,13.661,20,2013
+506,19062,"Automobile Insurance Company of Hartford, Connecticut",0.0,0,0,0,0,13.638,21,2013
+507,12777,Chubb Indemnity Insurance Company,0.0,0,1,2,3,13.339,22,2013
+508,28188,TravCo Insurance Company,0.0,0,0,0,0,13.107,23,2013
+509,23833,21st Century Security Insurance Company,0.0,0,2,3,5,11.952,24,2013
+510,25682,Travelers Indemnity Company of Connecticut,0.0,0,0,1,1,10.923,25,2013
+511,21261,Electric Insurance Company,0.0,0,0,1,1,9.574,26,2013
+512,12475,Republic-Franklin Insurance Company,0.0,0,0,0,0,9.026,27,2013
+513,43974,21st Century Indemnity Insurance Company,0.0,0,4,2,6,7.936,28,2013
+514,42404,Liberty Insurance Corporation,0.0,0,0,1,1,7.749,29,2013
+515,33600,LM Insurance Corporation,0.0,0,0,1,1,7.723,30,2013
+516,25615,Charter Oak Fire Insurance Company,0.0,0,0,0,0,7.517,31,2013
+517,42447,National General Assurance Company,0.0,0,1,0,1,7.447,32,2013
+518,37877,Nationwide Property and Casualty Insurance Company,0.0,0,1,0,1,7.21,33,2013
+519,12873,Privilege Underwriters Reciprocal Exchange,0.0,0,0,0,0,7.122,34,2013
+520,21709,Truck Insurance Exchange,0.0,0,1,1,2,7.063,35,2013
+521,30210,Esurance Property and Casualty Insurance Company,0.0,0,1,4,5,7.003,36,2013
+522,10806,Farmers New Century Insurance Company,0.0,0,1,2,3,6.964,37,2013
+523,23469,American Modern Home Insurance Company,0.0,0,1,1,2,6.213,38,2013
+524,34479,Maidstone Insurance Company,0.0,0,0,2,2,5.958,39,2013
+525,10111,American Bankers Insurance Company of Florida,0.0,0,0,3,3,5.871,40,2013
+526,16233,Erie Insurance Company of New York,0.0,0,2,2,4,5.745,41,2013
+527,20230,Central Mutual Insurance Company,0.0,0,0,0,0,5.671,42,2013
+528,31534,Citizens Insurance Company of America,0.0,0,1,1,2,5.589,43,2013
+529,14311,Interboro Insurance Company,0.0,0,1,8,9,5.325,44,2013
+530,13242,Titan Indemnity Company,0.0,0,0,4,4,5.276,45,2013
+531,10022,Countryway Insurance Company,0.0,0,0,1,1,5.13,46,2013
+532,21849,American Automobile Insurance Company,0.0,0,0,0,0,5.103,47,2013
+533,10072,Encompass Property and Casualty Company,0.0,0,0,0,0,4.958,48,2013
+534,10881,Unitrin Advantage Insurance Company,0.0,0,1,1,2,4.822,49,2013
+535,10226,Unitrin Direct Insurance Company,0.0,0,0,0,0,4.688,50,2013
+536,26298,Metropolitan Property and Casualty Insurance Company,0.0,0,0,2,2,4.502,51,2013
+537,21865,Associated Indemnity Corporation,0.0,0,0,0,0,4.171,52,2013
+538,27930,Integon Casualty Insurance Company,0.0,0,0,0,0,4.1,53,2013
+539,20397,Vigilant Insurance Company,0.0,0,0,1,1,3.849,54,2013
+540,20133,Response Worldwide Direct Auto Insurance Company,0.0,0,1,0,1,3.769,55,2013
+541,22306,Massachusetts Bay Insurance Company,0.0,0,0,1,1,3.746,56,2013
+542,10644,Victoria Automobile Insurance Company,0.0,0,0,0,0,3.452,57,2013
+543,10645,Drivers Insurance Company,0.0,0,0,4,4,3.286,58,2013
+544,23779,Nationwide Mutual Fire Insurance Company,0.0,0,0,7,7,3.264,59,2013
+545,10723,Nationwide Assurance Company,0.0,0,0,1,1,3.243,60,2013
+546,40754,Blue Ridge Indemnity Company,0.0,0,0,0,0,3.21,61,2013
+547,19070,Standard Fire Insurance Company,0.0,0,0,0,0,3.163,62,2013
+548,36170,Travelers Casualty Company of Connecticut,0.0,0,0,1,1,2.949,63,2013
+549,18058,Philadelphia Indemnity Insurance Company,0.0,0,1,1,2,2.888,64,2013
+550,41513,Foremost Signature Insurance Company,0.0,0,0,1,1,2.744,65,2013
+551,26050,Response Worldwide Insurance Company,0.0,0,2,0,2,2.736,66,2013
+552,15210,Sterling Insurance Company,0.0,0,0,0,0,2.629,67,2013
+553,43044,Response Insurance Company,0.0,0,0,0,0,2.545,68,2013
+554,21164,Dairyland Insurance Company,0.0,0,2,1,3,2.32,69,2013
+555,34690,Property and Casualty Insurance Company of Hartford,0.0,0,0,1,1,2.161,70,2013
+556,39004,Kemper Financial Indemnity Company,0.0,0,1,1,2,2.008,71,2013
+557,10674,Harleysville Insurance Company of New York,0.0,0,0,0,0,1.944,72,2013
+558,23647,Ironshore Indemnity Inc.,0.0,0,0,0,0,1.785,73,2013
+559,21881,National Surety Corporation,0.0,0,0,0,0,1.705,74,2013
+560,35696,Harleysville Preferred Insurance Company,0.0,0,0,0,0,1.628,75,2013
+561,20281,Federal Insurance Company,0.0,0,0,0,0,1.572,76,2013
+562,19615,American Reliable Insurance Company,0.0,0,0,0,0,1.556,77,2013
+563,42889,Victoria Fire & Casualty Company,0.0,0,0,1,1,1.556,78,2013
+564,25666,Travelers Indemnity Company of America,0.0,0,0,0,0,1.499,79,2013
+565,12360,Ocean Harbor Casualty Insurance Company,0.0,0,1,6,7,1.376,80,2013
+566,21873,Fireman's Fund Insurance Company,0.0,0,0,1,1,1.252,81,2013
+567,37257,Praetorian Insurance Company,0.0,0,0,0,0,1.232,82,2013
+568,31488,Integon Preferred Insurance Company,0.0,0,0,0,0,1.192,83,2013
+569,20346,Pacific Indemnity Company,0.0,0,0,0,0,1.058,84,2013
+570,14834,New York Central Mutual Fire Insurance Company,0.004,1,16,49,66,250.746,85,2013
+571,22055,GEICO Indemnity Company,0.0052,4,71,110,185,770.835,86,2013
+572,12130,New South Insurance Company,0.0087,1,7,18,26,115.334,87,2013
+573,35882,GEICO General Insurance Company,0.0103,18,204,269,491,1751.86,88,2013
+574,25674,Travelers Property Casualty Company of America,0.0108,1,5,9,15,92.429,89,2013
+575,22063,Government Employees Insurance Company,0.0129,7,41,62,110,542.812,90,2013
+576,10914,Kemper Independence Insurance Company,0.0152,1,5,9,15,65.827,91,2013
+577,38628,Progressive Northern Insurance Company,0.0156,1,4,11,16,64.284,92,2013
+578,29688,Allstate Fire and Casualty Insurance Company,0.0162,3,2,4,9,184.9,93,2013
+579,11851,Progressive Advanced Insurance Company,0.0178,2,2,14,18,112.326,94,2013
+580,40169,Metropolitan Casualty Insurance Company,0.0184,2,7,8,17,108.901,95,2013
+581,32786,Progressive Specialty Insurance Company,0.0193,3,8,14,25,155.588,96,2013
+582,27998,Travelers Home and Marine Insurance Company,0.0195,6,11,19,36,308.396,97,2013
+583,23787,Nationwide Mutual Insurance Company,0.0209,2,3,14,19,95.876,98,2013
+584,10212,Allmerica Financial Alliance Insurance Company,0.022,1,3,3,7,45.4,99,2013
+585,25178,State Farm Mutual Automobile Insurance Company,0.025,30,64,99,193,1200.401,100,2013
+586,12583,Adirondack Insurance Exchange,0.0262,2,8,10,20,76.406,101,2013
+587,42919,Progressive Northwestern Insurance Company,0.0266,1,1,6,8,37.656,102,2013
+588,17230,Allstate Property and Casualty Insurance Company,0.0292,15,26,47,88,514.199,103,2013
+589,25712,Esurance Insurance Company,0.0296,1,5,16,22,33.741,104,2013
+590,19976,Amica Mutual Insurance Company,0.031,3,7,7,17,96.903,105,2013
+591,25453,Nationwide Insurance Company of America,0.0311,3,4,6,13,96.593,106,2013
+592,29424,Hartford Casualty Insurance Company,0.0321,2,1,7,10,62.286,107,2013
+593,34339,Metropolitan Group Property and Casualty Insurance Company,0.0341,3,2,11,16,87.984,108,2013
+594,25143,State Farm Fire and Casualty Company,0.0381,6,3,22,31,157.666,109,2013
+595,23035,Liberty Mutual Fire Insurance Company,0.0388,18,52,75,145,464.434,110,2013
+596,12504,Ameriprise Insurance Company,0.0405,1,5,16,22,24.67,111,2013
+597,30104,Hartford Underwriters Insurance Company,0.042,2,2,12,16,47.58,112,2013
+598,37478,Hartford Insurance Company of the Midwest,0.0435,1,0,5,6,22.968,113,2013
+599,15024,Preferred Mutual Insurance Company,0.0485,3,22,12,37,61.879,114,2013
+600,24260,Progressive Casualty Insurance Company,0.0509,12,12,35,59,235.566,115,2013
+601,26093,Nationwide Affinity Insurance Company of America,0.0513,4,4,11,19,77.961,116,2013
+602,38288,Hartford Insurance Company of Illinois,0.057,3,8,9,20,52.65,117,2013
+603,25909,Unitrin Preferred Insurance Company,0.0649,1,1,2,4,15.406,118,2013
+604,12901,Merchants Preferred Insurance Company,0.0707,2,3,6,11,28.298,119,2013
+605,25968,USAA Casualty Insurance Company,0.071,6,5,9,20,84.558,120,2013
+606,24279,Progressive Max Insurance Company,0.072,4,2,6,12,55.575,121,2013
+607,20052,National Liability & Fire Insurance Company,0.0726,3,12,19,34,41.348,122,2013
+608,33588,First Liberty Insurance Corporation,0.073,2,5,4,11,27.395,123,2013
+609,34460,AutoOne Insurance Company,0.076,1,1,9,11,13.164,124,2013
+610,15130,Encompass Indemnity Company,0.0787,1,1,0,2,12.708,125,2013
+611,19232,Allstate Insurance Company,0.0788,75,100,188,363,952.202,126,2013
+612,23760,Nationwide General Insurance Company,0.0798,1,2,15,18,12.525,127,2013
+613,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0817,2,5,4,11,24.494,128,2013
+614,41483,Farmington Casualty Company,0.0853,2,1,7,10,23.443,129,2013
+615,11215,SAFECO Insurance Company of Indiana,0.0863,2,0,0,2,23.188,130,2013
+616,32220,21st Century North America Insurance Company,0.0915,2,3,5,10,21.87,131,2013
+617,19402,AIG Property Casualty Company,0.0918,2,0,0,2,21.795,132,2013
+618,14788,NGM Insurance Company,0.0952,1,2,1,4,10.502,133,2013
+619,11908,Mercury Casualty Company,0.1001,4,4,14,22,39.942,134,2013
+620,16322,Progressive Direct Insurance Company,0.1071,4,3,21,28,37.353,135,2013
+621,16063,Unitrin Auto and Home Insurance Company,0.1086,2,0,3,5,18.41,136,2013
+622,25941,United Services Automobile Association,0.11,11,12,5,28,100.038,137,2013
+623,25275,MAPFRE Insurance Company of New York,0.1198,5,2,6,13,41.72,138,2013
+624,29068,IDS Property Casualty Insurance Company,0.1298,2,3,5,10,15.403,139,2013
+625,23060,Tri-State Consumer Insurance Company,0.131,2,7,33,42,15.262,140,2013
+626,21253,Garrison Property and Casualty Insurance Company,0.132,5,1,5,11,37.884,141,2013
+627,34789,21st Century Centennial Insurance Company,0.1479,2,3,5,10,13.526,142,2013
+628,19704,American States Insurance Company,0.1512,10,4,10,24,66.122,143,2013
+629,25976,Utica Mutual Insurance Company,0.1646,1,1,6,8,6.077,144,2013
+630,19240,Allstate Indemnity Company,0.1802,1,1,3,5,5.551,145,2013
+631,18600,USAA General Indemnity Company,0.1973,8,3,11,22,40.545,146,2013
+632,20796,21st Century Premier Insurance Company,0.2008,1,1,0,2,4.979,147,2013
+633,22357,Hartford Accident and Indemnity Company,0.2144,1,2,1,4,4.664,148,2013
+634,25658,Travelers Indemnity Company,0.2159,1,1,3,5,4.632,149,2013
+635,26085,Warner Insurance Company,0.2166,1,0,0,1,4.618,150,2013
+636,10921,CSAA Fire & Casualty Insurance Company,0.2239,3,1,6,10,13.401,151,2013
+637,24198,Peerless Insurance Company,0.2399,9,9,10,28,37.51,152,2013
+638,11037,Eveready Insurance Company,0.2689,4,5,13,22,14.873,153,2013
+639,23728,National General Insurance Company,0.2752,1,1,0,2,3.633,154,2013
+640,29742,Integon National Insurance Company,0.3591,1,0,1,2,2.785,155,2013
+641,23450,American Family Home Insurance Company,0.4048,1,0,0,1,2.471,156,2013
+642,27120,Trumbull Insurance Company,0.5618,2,0,3,5,3.56,157,2013
+643,41491,GEICO Casualty Company,0.6087,1,10,30,41,1.643,158,2013
+644,22225,21st Century Preferred Insurance Company,0.7819,1,0,0,1,1.279,159,2013
+645,10839,Country-Wide Insurance Company,0.8251,99,61,218,378,119.982,160,2013
+646,10677,Cincinnati Insurance Company,0.8773,1,0,0,1,1.14,161,2013
+647,24740,SAFECO Insurance Company of America,0.92,2,2,5,9,2.174,162,2013
+648,39217,QBE Insurance Corporation,0.9724,8,6,19,33,8.227,163,2013
+649,22268,Infinity Insurance Company,1.1638,1,1,2,4,0.859,164,2013
+650,19941,American Commerce Insurance Company,1.4833,5,6,10,21,3.371,165,2013
+651,19682,Hartford Fire Insurance Company,1.7431,7,0,2,9,4.016,166,2013
+652,36161,Travelers Property Casualty Insurance Company,1.8677,3,1,3,7,1.606,167,2013
+653,22292,Hanover Insurance Company,3.0327,3,0,3,6,0.989,168,2013
+654,23329,Merchants Mutual Insurance Company,4.1066,1,2,3,6,0.244,169,2013
+655,37648,Permanent General Assurance Corporation,5.2193,20,1,10,31,3.832,170,2013
+656,29459,Twin City Fire Insurance Company,10.155,16,0,0,16,1.576,171,2013
+657,11851,Progressive Advanced Insurance Company,0.0,0,12,17,29,88.401,1,2012
+658,26263,Erie Insurance Company,0.0,0,6,8,14,70.219,2,2012
+659,10212,Allmerica Financial Alliance Insurance Company,0.0,0,2,5,7,44.371,3,2012
+660,42919,Progressive Northwestern Insurance Company,0.0,0,2,6,8,41.146,4,2012
+661,40231,Old Dominion Insurance Company,0.0,0,1,2,3,32.641,5,2012
+662,11000,"Sentinel Insurance Company, Ltd.",0.0,0,2,3,5,32.365,6,2012
+663,12901,Merchants Preferred Insurance Company,0.0,0,5,5,10,28.718,7,2012
+664,33588,First Liberty Insurance Corporation,0.0,0,2,3,5,28.009,8,2012
+665,36137,Travelers Commercial Insurance Company,0.0,0,3,2,5,26.112,9,2012
+666,20303,Great Northern Insurance Company,0.0,0,0,0,0,24.841,10,2012
+667,32220,21st Century North America Insurance Company,0.0,0,2,2,4,24.52,11,2012
+668,10052,Chubb National Insurance Company,0.0,0,0,1,1,24.117,12,2012
+669,29939,Main Street America Assurance Company,0.0,0,3,3,6,22.941,13,2012
+670,41483,Farmington Casualty Company,0.0,0,3,3,6,21.781,14,2012
+671,16063,Unitrin Auto and Home Insurance Company,0.0,0,3,4,7,21.203,15,2012
+672,18279,Bankers Standard Insurance Company,0.0,0,1,1,2,20.538,16,2012
+673,12504,Ameriprise Insurance Company,0.0,0,1,7,8,18.518,17,2012
+674,36447,LM General Insurance Company,0.0,0,0,0,0,17.806,18,2012
+675,25909,Unitrin Preferred Insurance Company,0.0,0,0,3,3,17.489,19,2012
+676,29068,IDS Property Casualty Insurance Company,0.0,0,1,2,3,16.848,20,2012
+677,40649,Economy Premier Assurance Company,0.0,0,0,1,1,16.038,21,2012
+678,10071,Encompass Insurance Company of America,0.0,0,4,0,4,15.994,22,2012
+679,19062,"Automobile Insurance Company of Hartford, Connecticut",0.0,0,0,2,2,15.794,23,2012
+680,28188,TravCo Insurance Company,0.0,0,0,1,1,15.235,24,2012
+681,12777,Chubb Indemnity Insurance Company,0.0,0,1,2,3,15.102,25,2012
+682,37915,Essentia Insurance Company,0.0,0,0,2,2,13.289,26,2012
+683,10921,CSAA Fire & Casualty Insurance Company,0.0,0,5,0,5,12.762,27,2012
+684,25682,Travelers Indemnity Company of Connecticut,0.0,0,0,3,3,12.626,28,2012
+685,43974,21st Century Indemnity Insurance Company,0.0,0,1,1,2,10.009,29,2012
+686,12475,Republic-Franklin Insurance Company,0.0,0,2,1,3,9.363,30,2012
+687,19410,Commerce and Industry Insurance Company,0.0,0,2,2,4,9.298,31,2012
+688,10806,Farmers New Century Insurance Company,0.0,0,2,1,3,9.106,32,2012
+689,36587,21st Century National Insurance Company,0.0,0,0,2,2,8.897,33,2012
+690,25615,Charter Oak Fire Insurance Company,0.0,0,1,2,3,8.715,34,2012
+691,26085,Warner Insurance Company,0.0,0,1,0,1,7.154,35,2012
+692,37877,Nationwide Property and Casualty Insurance Company,0.0,0,0,1,1,7.106,36,2012
+693,23833,21st Century Security Insurance Company,0.0,0,0,2,2,7.047,37,2012
+694,31534,Citizens Insurance Company of America,0.0,0,0,1,1,6.869,38,2012
+695,23469,American Modern Home Insurance Company,0.0,0,0,2,2,6.501,39,2012
+696,25976,Utica Mutual Insurance Company,0.0,0,1,2,3,6.118,40,2012
+697,12873,Privilege Underwriters Reciprocal Exchange,0.0,0,0,0,0,5.698,41,2012
+698,10072,Encompass Property and Casualty Company,0.0,0,1,2,3,5.599,42,2012
+699,20230,Central Mutual Insurance Company,0.0,0,0,0,0,5.446,43,2012
+700,23779,Nationwide Mutual Fire Insurance Company,0.0,0,4,4,8,5.383,44,2012
+701,20133,Response Worldwide Direct Auto Insurance Company,0.0,0,0,2,2,5.197,45,2012
+702,19682,Hartford Fire Insurance Company,0.0,0,0,5,5,4.687,46,2012
+703,22306,Massachusetts Bay Insurance Company,0.0,0,1,1,2,4.671,47,2012
+704,21849,American Automobile Insurance Company,0.0,0,0,1,1,4.607,48,2012
+705,41513,Foremost Signature Insurance Company,0.0,0,1,1,2,4.557,49,2012
+706,21865,Associated Indemnity Corporation,0.0,0,0,0,0,4.507,50,2012
+707,26050,Response Worldwide Insurance Company,0.0,0,0,0,0,4.311,51,2012
+708,20397,Vigilant Insurance Company,0.0,0,0,0,0,4.307,52,2012
+709,23728,National General Insurance Company,0.0,0,0,0,0,4.247,53,2012
+710,13242,Titan Indemnity Company,0.0,0,0,3,3,4.141,54,2012
+711,19070,Standard Fire Insurance Company,0.0,0,0,0,0,3.729,55,2012
+712,40754,Blue Ridge Indemnity Company,0.0,0,0,0,0,3.504,56,2012
+713,36170,Travelers Casualty Company of Connecticut,0.0,0,0,1,1,3.386,57,2012
+714,27120,Trumbull Insurance Company,0.0,0,0,1,1,3.33,58,2012
+715,10645,Drivers Insurance Company,0.0,0,0,0,0,3.165,59,2012
+716,10226,Unitrin Direct Insurance Company,0.0,0,1,3,4,3.098,60,2012
+717,26298,Metropolitan Property and Casualty Insurance Company,0.0,0,0,0,0,3.084,61,2012
+718,39004,Kemper Financial Indemnity Company,0.0,0,0,0,0,3.043,62,2012
+719,23450,American Family Home Insurance Company,0.0,0,0,0,0,2.845,63,2012
+720,18058,Philadelphia Indemnity Insurance Company,0.0,0,1,2,3,2.705,64,2012
+721,15210,Sterling Insurance Company,0.0,0,0,0,0,2.441,65,2012
+722,34690,Property and Casualty Insurance Company of Hartford,0.0,0,1,2,3,2.367,66,2012
+723,34479,Maidstone Insurance Company,0.0,0,0,0,0,2.336,67,2012
+724,10674,Harleysville Insurance Company of New York,0.0,0,0,0,0,2.332,68,2012
+725,33600,LM Insurance Corporation,0.0,0,1,0,1,2.253,69,2012
+726,10723,Nationwide Assurance Company,0.0,0,0,1,1,2.144,70,2012
+727,36161,Travelers Property Casualty Insurance Company,0.0,0,3,5,8,1.87,71,2012
+728,21881,National Surety Corporation,0.0,0,1,0,1,1.706,72,2012
+729,20281,Federal Insurance Company,0.0,0,1,2,3,1.701,73,2012
+730,30210,Esurance Property and Casualty Insurance Company,0.0,0,0,2,2,1.679,74,2012
+731,31488,Integon Preferred Insurance Company,0.0,0,0,0,0,1.47,75,2012
+732,41491,GEICO Casualty Company,0.0,0,8,13,21,1.433,76,2012
+733,22225,21st Century Preferred Insurance Company,0.0,0,0,1,1,1.424,77,2012
+734,21873,Fireman's Fund Insurance Company,0.0,0,0,0,0,1.412,78,2012
+735,19615,American Reliable Insurance Company,0.0,0,0,1,1,1.3,79,2012
+736,10644,Victoria Automobile Insurance Company,0.0,0,0,0,0,1.197,80,2012
+737,20346,Pacific Indemnity Company,0.0,0,0,0,0,1.124,81,2012
+738,10915,Unitrin Direct Property & Casualty Company,0.0,0,2,1,3,1.098,82,2012
+739,35696,Harleysville Preferred Insurance Company,0.0,0,0,0,0,1.053,83,2012
+740,35882,GEICO General Insurance Company,0.0076,12,184,258,454,1570.816,84,2012
+741,12130,New South Insurance Company,0.0083,1,8,25,34,120.453,85,2012
+742,22063,Government Employees Insurance Company,0.0095,5,50,63,118,526.816,86,2012
+743,25453,Nationwide Insurance Company of America,0.0101,1,4,18,23,99.462,87,2012
+744,38628,Progressive Northern Insurance Company,0.0101,1,5,11,17,99.134,88,2012
+745,19976,Amica Mutual Insurance Company,0.0106,1,2,6,9,94.202,89,2012
+746,22055,GEICO Indemnity Company,0.0114,8,83,126,217,702.861,90,2012
+747,14834,New York Central Mutual Fire Insurance Company,0.0124,3,17,39,59,241.169,91,2012
+748,25968,USAA Casualty Insurance Company,0.013,1,11,22,34,77.033,92,2012
+749,24260,Progressive Casualty Insurance Company,0.0131,2,9,42,53,152.186,93,2012
+750,32786,Progressive Specialty Insurance Company,0.016,2,4,20,26,125.251,94,2012
+751,10914,Kemper Independence Insurance Company,0.016,1,3,9,13,62.623,95,2012
+752,40169,Metropolitan Casualty Insurance Company,0.0163,2,8,8,18,122.95,96,2012
+753,16322,Progressive Direct Insurance Company,0.0184,1,12,17,30,54.252,97,2012
+754,29688,Allstate Fire and Casualty Insurance Company,0.0194,1,1,6,8,51.549,98,2012
+755,23787,Nationwide Mutual Insurance Company,0.0195,2,4,8,14,102.424,99,2012
+756,24279,Progressive Max Insurance Company,0.0213,1,2,6,9,46.989,100,2012
+757,26093,Nationwide Affinity Insurance Company of America,0.0235,1,6,7,14,42.548,101,2012
+758,25178,State Farm Mutual Automobile Insurance Company,0.0244,28,92,133,253,1149.201,102,2012
+759,37834,Progressive Preferred Insurance Company,0.0264,1,2,6,9,37.863,103,2012
+760,25674,Travelers Property Casualty Company of America,0.0273,3,5,14,22,109.778,104,2012
+761,12583,Adirondack Insurance Exchange,0.0274,2,7,8,17,73.04,105,2012
+762,23035,Liberty Mutual Fire Insurance Company,0.0281,14,50,64,128,498.127,106,2012
+763,11908,Mercury Casualty Company,0.0283,1,5,18,24,35.348,107,2012
+764,27998,Travelers Home and Marine Insurance Company,0.0311,9,13,24,46,289.359,108,2012
+765,43478,Utica National Insurance Company of Texas,0.0336,1,5,2,8,29.727,109,2012
+766,15024,Preferred Mutual Insurance Company,0.0338,2,4,11,17,59.157,110,2012
+767,25275,MAPFRE Insurance Company of New York,0.0342,1,0,5,6,29.266,111,2012
+768,11105,A. Central Insurance Company,0.0371,2,17,27,46,53.907,112,2012
+769,37478,Hartford Insurance Company of the Midwest,0.0387,1,1,4,6,25.834,113,2012
+770,29424,Hartford Casualty Insurance Company,0.0392,2,3,7,12,51.041,114,2012
+771,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0397,1,2,12,15,25.181,115,2012
+772,25143,State Farm Fire and Casualty Company,0.042,7,10,26,43,166.654,116,2012
+773,13803,Farm Family Casualty Insurance Company,0.0421,1,2,2,5,23.749,117,2012
+774,25941,United Services Automobile Association,0.0422,4,10,12,26,94.678,118,2012
+775,25623,Phoenix Insurance Company,0.0442,1,0,2,3,22.611,119,2012
+776,17230,Allstate Property and Casualty Insurance Company,0.0459,29,31,83,143,631.429,120,2012
+777,34339,Metropolitan Group Property and Casualty Insurance Company,0.0475,4,4,13,21,84.126,121,2012
+778,20052,National Liability & Fire Insurance Company,0.0489,3,13,28,44,61.342,122,2012
+779,25232,21st Century Advantage Insurance Company,0.0511,1,2,11,14,19.568,123,2012
+780,11037,Eveready Insurance Company,0.0524,1,5,22,28,19.09,124,2012
+781,19704,American States Insurance Company,0.0619,3,3,11,17,48.469,125,2012
+782,11252,Encompass Home and Auto Insurance Company,0.067,1,1,1,3,14.928,126,2012
+783,21253,Garrison Property and Casualty Insurance Company,0.0718,2,2,11,15,27.864,127,2012
+784,30104,Hartford Underwriters Insurance Company,0.0768,3,3,9,15,39.064,128,2012
+785,38288,Hartford Insurance Company of Illinois,0.0851,5,7,21,33,58.737,129,2012
+786,34460,AutoOne Insurance Company,0.0871,2,6,13,21,22.966,130,2012
+787,19402,AIG Property Casualty Company,0.0923,1,0,0,1,10.84,131,2012
+788,42404,Liberty Insurance Corporation,0.0949,1,2,1,4,10.533,132,2012
+789,23760,Nationwide General Insurance Company,0.096,2,7,18,27,20.834,133,2012
+790,34789,21st Century Centennial Insurance Company,0.1,1,2,5,8,10.002,134,2012
+791,25712,Esurance Insurance Company,0.1016,4,3,11,18,39.353,135,2012
+792,21261,Electric Insurance Company,0.102,1,0,1,2,9.803,136,2012
+793,19232,Allstate Insurance Company,0.1107,116,203,297,616,1047.68,137,2012
+794,24198,Peerless Insurance Company,0.1148,8,3,11,22,69.677,138,2012
+795,14311,Interboro Insurance Company,0.1189,1,1,9,11,8.411,139,2012
+796,23060,Tri-State Consumer Insurance Company,0.1229,2,8,45,55,16.268,140,2012
+797,15130,Encompass Indemnity Company,0.1324,2,1,2,5,15.101,141,2012
+798,19941,American Commerce Insurance Company,0.133,3,5,18,26,22.558,142,2012
+799,14788,NGM Insurance Company,0.1666,2,3,4,9,12.005,143,2012
+800,20796,21st Century Premier Insurance Company,0.1764,1,0,0,1,5.668,144,2012
+801,22357,Hartford Accident and Indemnity Company,0.1788,1,1,4,6,5.592,145,2012
+802,10881,Unitrin Advantage Insurance Company,0.1802,1,2,3,6,5.548,146,2012
+803,10111,American Bankers Insurance Company of Florida,0.1828,1,0,0,1,5.47,147,2012
+804,21709,Truck Insurance Exchange,0.1903,2,2,2,6,10.508,148,2012
+805,18600,USAA General Indemnity Company,0.2078,6,6,11,23,28.881,149,2012
+806,10022,Countryway Insurance Company,0.2416,1,1,0,2,4.139,150,2012
+807,42447,National General Assurance Company,0.2766,2,1,3,6,7.232,151,2012
+808,43044,Response Insurance Company,0.2778,1,0,2,3,3.599,152,2012
+809,29742,Integon National Insurance Company,0.3672,1,1,1,3,2.723,153,2012
+810,24740,SAFECO Insurance Company of America,0.3912,1,1,6,8,2.556,154,2012
+811,21164,Dairyland Insurance Company,0.4304,1,1,5,7,2.323,155,2012
+812,25658,Travelers Indemnity Company,0.4957,2,5,11,18,4.035,156,2012
+813,19240,Allstate Indemnity Company,0.505,3,0,1,4,5.94,157,2012
+814,10839,Country-Wide Insurance Company,0.5294,67,96,361,524,126.558,158,2012
+815,25666,Travelers Indemnity Company of America,0.5822,1,0,0,1,1.718,159,2012
+816,11215,SAFECO Insurance Company of Indiana,0.752,3,2,1,6,3.989,160,2012
+817,23647,Ironshore Indemnity Inc.,0.7552,1,0,0,1,1.324,161,2012
+818,39217,QBE Insurance Corporation,0.9347,11,7,36,54,11.768,162,2012
+819,22268,Infinity Insurance Company,1.1494,1,0,2,3,0.87,163,2012
+820,37648,Permanent General Assurance Corporation,1.3027,11,4,21,36,8.444,164,2012
+821,11738,Infinity Auto Insurance Company,1.4244,1,0,2,3,0.702,165,2012
+822,22292,Hanover Insurance Company,1.523,2,3,3,8,1.313,166,2012
+823,12360,Ocean Harbor Casualty Insurance Company,1.9722,4,2,15,21,2.028,167,2012
+824,29459,Twin City Fire Insurance Company,3.1233,3,0,0,3,0.961,168,2012
+825,23329,Merchants Mutual Insurance Company,4.1535,1,4,3,8,0.241,169,2012
+826,32620,National Interstate Insurance Company,7.0636,1,0,0,1,0.142,170,2012
+827,19445,"National Union Fire Insurance Company of Pittsburgh, Pa.",15.2014,2,0,2,4,0.132,171,2012
+828,12963,21st Century Insurance Company,22.5286,1,0,7,8,0.044,172,2012
+829,10914,Kemper Independence Insurance Company,0.0,0,10,4,14,55.999,1,2011
+830,42919,Progressive Northwestern Insurance Company,0.0,0,3,4,7,43.555,2,2011
+831,20303,Great Northern Insurance Company,0.0,0,1,1,2,28.317,3,2011
+832,12901,Merchants Preferred Insurance Company,0.0,0,3,9,12,27.237,4,2011
+833,29939,Main Street America Assurance Company,0.0,0,2,6,8,27.202,5,2011
+834,16063,Unitrin Auto and Home Insurance Company,0.0,0,2,5,7,25.004,6,2011
+835,43478,Utica National Insurance Company of Texas,0.0,0,4,5,9,23.915,7,2011
+836,40231,Old Dominion Insurance Company,0.0,0,0,2,2,23.072,8,2011
+837,15130,Encompass Indemnity Company,0.0,0,3,3,6,20.229,9,2011
+838,25909,Unitrin Preferred Insurance Company,0.0,0,3,2,5,20.213,10,2011
+839,19410,Commerce and Industry Insurance Company,0.0,0,0,3,3,19.84,11,2011
+840,10071,Encompass Insurance Company of America,0.0,0,2,8,10,19.471,12,2011
+841,19062,"Automobile Insurance Company of Hartford, Connecticut",0.0,0,1,3,4,19.342,13,2011
+842,28188,TravCo Insurance Company,0.0,0,1,1,2,18.538,14,2011
+843,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0,0,1,6,7,18.442,15,2011
+844,40649,Economy Premier Assurance Company,0.0,0,3,0,3,17.655,16,2011
+845,18279,Bankers Standard Insurance Company,0.0,0,0,0,0,17.625,17,2011
+846,25682,Travelers Indemnity Company of Connecticut,0.0,0,2,6,8,15.475,18,2011
+847,43974,21st Century Indemnity Insurance Company,0.0,0,2,2,4,12.988,19,2011
+848,26093,Nationwide Affinity Insurance Company of America,0.0,0,2,1,3,11.736,20,2011
+849,12504,Ameriprise Insurance Company,0.0,0,2,1,3,10.949,21,2011
+850,25615,Charter Oak Fire Insurance Company,0.0,0,1,1,2,10.614,22,2011
+851,11252,Encompass Home and Auto Insurance Company,0.0,0,1,2,3,10.509,23,2011
+852,21261,Electric Insurance Company,0.0,0,0,2,2,10.422,24,2011
+853,23779,Nationwide Mutual Fire Insurance Company,0.0,0,4,5,9,10.358,25,2011
+854,12475,Republic-Franklin Insurance Company,0.0,0,0,1,1,10.231,26,2011
+855,31534,Citizens Insurance Company of America,0.0,0,0,0,0,8.296,27,2011
+856,23469,American Modern Home Insurance Company,0.0,0,0,0,0,7.334,28,2011
+857,22357,Hartford Accident and Indemnity Company,0.0,0,3,3,6,6.994,29,2011
+858,10072,Encompass Property and Casualty Company,0.0,0,0,0,0,6.741,30,2011
+859,20796,21st Century Premier Insurance Company,0.0,0,0,0,0,6.598,31,2011
+860,37877,Nationwide Property and Casualty Insurance Company,0.0,0,0,0,0,6.512,32,2011
+861,22306,Massachusetts Bay Insurance Company,0.0,0,1,0,1,5.786,33,2011
+862,10881,Unitrin Advantage Insurance Company,0.0,0,0,2,2,5.696,34,2011
+863,20230,Central Mutual Insurance Company,0.0,0,0,1,1,5.365,35,2011
+864,21865,Associated Indemnity Corporation,0.0,0,0,0,0,5.254,36,2011
+865,26050,Response Worldwide Insurance Company,0.0,0,1,1,2,5.171,37,2011
+866,10111,American Bankers Insurance Company of Florida,0.0,0,0,1,1,5.153,38,2011
+867,23728,National General Insurance Company,0.0,0,0,1,1,5.11,39,2011
+868,20397,Vigilant Insurance Company,0.0,0,0,2,2,4.924,40,2011
+869,19070,Standard Fire Insurance Company,0.0,0,0,0,0,4.623,41,2011
+870,21849,American Automobile Insurance Company,0.0,0,0,2,2,4.481,42,2011
+871,12873,Privilege Underwriters Reciprocal Exchange,0.0,0,0,0,0,4.467,43,2011
+872,43044,Response Insurance Company,0.0,0,0,0,0,4.301,44,2011
+873,40754,Blue Ridge Indemnity Company,0.0,0,2,0,2,3.84,45,2011
+874,41513,Foremost Signature Insurance Company,0.0,0,0,2,2,3.531,46,2011
+875,39004,Kemper Financial Indemnity Company,0.0,0,0,2,2,3.401,47,2011
+876,23450,American Family Home Insurance Company,0.0,0,0,0,0,3.124,48,2011
+877,10674,Harleysville Insurance Company of New York,0.0,0,0,0,0,2.767,49,2011
+878,34690,Property and Casualty Insurance Company of Hartford,0.0,0,1,0,1,2.733,50,2011
+879,18058,Philadelphia Indemnity Insurance Company,0.0,0,1,2,3,2.573,51,2011
+880,21164,Dairyland Insurance Company,0.0,0,2,0,2,2.445,52,2011
+881,29742,Integon National Insurance Company,0.0,0,0,1,1,2.258,53,2011
+882,34479,Maidstone Insurance Company,0.0,0,1,0,1,2.254,54,2011
+883,33855,Lincoln General Insurance Company,0.0,0,2,8,10,2.163,55,2011
+884,15210,Sterling Insurance Company,0.0,0,1,0,1,2.078,56,2011
+885,41491,GEICO Casualty Company,0.0,0,3,3,6,2.02,57,2011
+886,31488,Integon Preferred Insurance Company,0.0,0,0,0,0,1.885,58,2011
+887,21881,National Surety Corporation,0.0,0,0,0,0,1.879,59,2011
+888,21873,Fireman's Fund Insurance Company,0.0,0,0,0,0,1.682,60,2011
+889,22225,21st Century Preferred Insurance Company,0.0,0,0,0,0,1.617,61,2011
+890,27120,Trumbull Insurance Company,0.0,0,0,2,2,1.611,62,2011
+891,25984,Graphic Arts Mutual Insurance Company,0.0,0,0,0,0,1.581,63,2011
+892,10687,Utica National Assurance Company,0.0,0,0,0,0,1.43,64,2011
+893,10723,Nationwide Assurance Company,0.0,0,1,3,4,1.348,65,2011
+894,20346,Pacific Indemnity Company,0.0,0,0,0,0,1.251,66,2011
+895,19615,American Reliable Insurance Company,0.0,0,0,0,0,1.147,67,2011
+896,26182,Harleysville Worcester Insurance Company,0.0,0,0,0,0,1.004,68,2011
+897,22063,Government Employees Insurance Company,0.006,3,96,143,242,501.969,69,2011
+898,14834,New York Central Mutual Fire Insurance Company,0.0085,2,25,65,92,235.051,70,2011
+899,32786,Progressive Specialty Insurance Company,0.0106,1,6,26,33,94.159,71,2011
+900,35882,GEICO General Insurance Company,0.0107,15,189,226,430,1397.051,72,2011
+901,19976,Amica Mutual Insurance Company,0.0112,1,3,6,10,89.669,73,2011
+902,22055,GEICO Indemnity Company,0.0125,8,72,109,189,640.146,74,2011
+903,38628,Progressive Northern Insurance Company,0.0156,2,11,16,29,128.244,75,2011
+904,37834,Progressive Preferred Insurance Company,0.0182,1,11,7,19,54.859,76,2011
+905,20052,National Liability & Fire Insurance Company,0.0208,1,7,15,23,47.97,77,2011
+906,25143,State Farm Fire and Casualty Company,0.0226,4,14,38,56,176.852,78,2011
+907,25178,State Farm Mutual Automobile Insurance Company,0.0248,27,131,219,377,1087.724,79,2011
+908,34339,Metropolitan Group Property and Casualty Insurance Company,0.0251,2,5,8,15,79.576,80,2011
+909,12583,Adirondack Insurance Exchange,0.0268,2,5,11,18,74.561,81,2011
+910,40169,Metropolitan Casualty Insurance Company,0.0296,4,6,25,35,134.97,82,2011
+911,23035,Liberty Mutual Fire Insurance Company,0.0325,16,43,88,147,491.956,83,2011
+912,27998,Travelers Home and Marine Insurance Company,0.0327,8,12,23,43,244.51,84,2011
+913,23760,Nationwide General Insurance Company,0.0334,1,7,32,40,29.905,85,2011
+914,19704,American States Insurance Company,0.0339,1,2,9,12,29.47,86,2011
+915,37478,Hartford Insurance Company of the Midwest,0.0342,1,1,7,9,29.212,87,2011
+916,23787,Nationwide Mutual Insurance Company,0.0359,4,7,14,25,111.289,88,2011
+917,25674,Travelers Property Casualty Company of America,0.0364,5,10,23,38,137.191,89,2011
+918,25623,Phoenix Insurance Company,0.0366,1,1,4,6,27.359,90,2011
+919,17230,Allstate Property and Casualty Insurance Company,0.0384,26,45,107,178,676.299,91,2011
+920,25453,Nationwide Insurance Company of America,0.041,4,10,16,30,97.532,92,2011
+921,13803,Farm Family Casualty Insurance Company,0.0431,1,6,6,13,23.199,93,2011
+922,11000,"Sentinel Insurance Company, Ltd.",0.0436,2,3,11,16,45.899,94,2011
+923,36137,Travelers Commercial Insurance Company,0.0463,1,1,2,4,21.581,95,2011
+924,41483,Farmington Casualty Company,0.0478,1,1,6,8,20.907,96,2011
+925,11037,Eveready Insurance Company,0.0485,1,7,25,33,20.634,97,2011
+926,11105,A. Central Insurance Company,0.0486,3,27,30,60,61.767,98,2011
+927,24279,Progressive Max Insurance Company,0.0491,2,1,6,9,40.771,99,2011
+928,25232,21st Century Advantage Insurance Company,0.0511,1,1,8,10,19.562,100,2011
+929,15024,Preferred Mutual Insurance Company,0.0531,3,12,7,22,56.518,101,2011
+930,11851,Progressive Advanced Insurance Company,0.0533,4,2,25,31,75.065,102,2011
+931,29068,IDS Property Casualty Insurance Company,0.0548,1,4,5,10,18.263,103,2011
+932,12777,Chubb Indemnity Insurance Company,0.0576,1,0,1,2,17.362,104,2011
+933,16322,Progressive Direct Insurance Company,0.059,4,13,49,66,67.849,105,2011
+934,38288,Hartford Insurance Company of Illinois,0.0607,4,6,22,32,65.846,106,2011
+935,10052,Chubb National Insurance Company,0.0625,1,0,3,4,16.004,107,2011
+936,25941,United Services Automobile Association,0.064,6,3,17,26,93.731,108,2011
+937,25968,USAA Casualty Insurance Company,0.0647,5,6,19,30,77.319,109,2011
+938,29424,Hartford Casualty Insurance Company,0.0656,2,1,7,10,30.478,110,2011
+939,12130,New South Insurance Company,0.0724,8,5,19,32,110.503,111,2011
+940,14788,NGM Insurance Company,0.0741,1,5,5,11,13.488,112,2011
+941,26263,Erie Insurance Company,0.0749,5,4,8,17,66.789,113,2011
+942,30104,Hartford Underwriters Insurance Company,0.0789,2,0,2,4,25.353,114,2011
+943,24198,Peerless Insurance Company,0.0795,6,17,12,35,75.486,115,2011
+944,10921,CSAA Fire & Casualty Insurance Company,0.0806,1,1,6,8,12.403,116,2011
+945,37915,Essentia Insurance Company,0.0812,1,1,0,2,12.315,117,2011
+946,33588,First Liberty Insurance Corporation,0.0814,2,4,5,11,24.56,118,2011
+947,42404,Liberty Insurance Corporation,0.0817,1,1,2,4,12.234,119,2011
+948,10806,Farmers New Century Insurance Company,0.0853,1,1,6,8,11.717,120,2011
+949,19232,Allstate Insurance Company,0.0861,97,251,312,660,1127.18,121,2011
+950,11908,Mercury Casualty Company,0.0865,3,5,14,22,34.691,122,2011
+951,18600,USAA General Indemnity Company,0.0906,2,4,8,14,22.085,123,2011
+952,24260,Progressive Casualty Insurance Company,0.0916,9,12,51,72,98.255,124,2011
+953,25712,Esurance Insurance Company,0.1019,5,9,30,44,49.068,125,2011
+954,32220,21st Century North America Insurance Company,0.1027,3,4,8,15,29.2,126,2011
+955,26085,Warner Insurance Company,0.1101,1,1,4,6,9.08,127,2011
+956,23060,Tri-State Consumer Insurance Company,0.1134,2,11,39,52,17.639,128,2011
+957,21253,Garrison Property and Casualty Insurance Company,0.1226,2,3,6,11,16.307,129,2011
+958,25275,MAPFRE Insurance Company of New York,0.1255,3,7,19,29,23.908,130,2011
+959,25658,Travelers Indemnity Company,0.1476,1,4,23,28,6.774,131,2011
+960,10212,Allmerica Financial Alliance Insurance Company,0.1538,7,9,3,19,45.506,132,2011
+961,34460,AutoOne Insurance Company,0.1689,6,7,19,32,35.518,133,2011
+962,34789,21st Century Centennial Insurance Company,0.1702,2,1,6,9,11.751,134,2011
+963,20133,Response Worldwide Direct Auto Insurance Company,0.1712,1,1,2,4,5.842,135,2011
+964,21709,Truck Insurance Exchange,0.1746,3,5,5,13,17.181,136,2011
+965,19682,Hartford Fire Insurance Company,0.1746,1,2,2,5,5.726,137,2011
+966,11215,SAFECO Insurance Company of Indiana,0.1862,1,1,1,3,5.371,138,2011
+967,25976,Utica Mutual Insurance Company,0.1866,1,0,7,8,5.36,139,2011
+968,19941,American Commerce Insurance Company,0.2009,9,8,21,38,44.789,140,2011
+969,39217,QBE Insurance Corporation,0.2184,4,22,34,60,18.318,141,2011
+970,36170,Travelers Casualty Company of Connecticut,0.2455,1,0,0,1,4.073,142,2011
+971,36587,21st Century National Insurance Company,0.2607,1,1,1,3,3.836,143,2011
+972,10022,Countryway Insurance Company,0.2637,1,0,2,3,3.793,144,2011
+973,19240,Allstate Indemnity Company,0.2909,2,3,7,12,6.875,145,2011
+974,26298,Metropolitan Property and Casualty Insurance Company,0.2939,1,0,2,3,3.402,146,2011
+975,42447,National General Assurance Company,0.2954,2,2,2,6,6.77,147,2011
+976,14311,Interboro Insurance Company,0.3217,3,2,5,10,9.325,148,2011
+977,13242,Titan Indemnity Company,0.3221,1,0,2,3,3.105,149,2011
+978,37257,Praetorian Insurance Company,0.3694,9,20,45,74,24.362,150,2011
+979,10839,Country-Wide Insurance Company,0.4025,45,84,365,494,111.791,151,2011
+980,10226,Unitrin Direct Insurance Company,0.4448,2,2,10,14,4.496,152,2011
+981,36161,Travelers Property Casualty Insurance Company,0.4477,1,0,3,4,2.233,153,2011
+982,25666,Travelers Indemnity Company of America,0.4838,1,0,1,2,2.067,154,2011
+983,20281,Federal Insurance Company,0.5285,1,0,2,3,1.892,155,2011
+984,10645,Drivers Insurance Company,0.6697,2,1,4,7,2.986,156,2011
+985,10915,Unitrin Direct Property & Casualty Company,0.6746,1,0,2,3,1.482,157,2011
+986,37648,Permanent General Assurance Corporation,0.8247,9,4,15,28,10.913,158,2011
+987,24740,SAFECO Insurance Company of America,0.9778,3,1,2,6,3.068,159,2011
+988,22268,Infinity Insurance Company,1.0487,1,1,0,2,0.954,160,2011
+989,22292,Hanover Insurance Company,1.22,2,0,1,3,1.639,161,2011
+990,12360,Ocean Harbor Casualty Insurance Company,1.2977,4,9,25,38,3.082,162,2011
+991,18376,Hermitage Insurance Company,1.4627,1,0,0,1,0.684,163,2011
+992,12963,21st Century Insurance Company,2.2174,1,0,11,12,0.451,164,2011
+993,29459,Twin City Fire Insurance Company,2.8216,4,0,0,4,1.418,165,2011
+994,31968,Merastar Insurance Company,3.0793,1,0,0,1,0.325,166,2011
+995,13668,Kingstone Insurance Company,5.1043,1,1,3,5,0.196,167,2011
+996,24821,Meritplan Insurance Company,7.4144,2,1,5,8,0.27,168,2011
+997,24988,Sentry Insurance A Mutual Company,14.9651,1,0,0,1,0.067,169,2011
+998,26263,Erie Insurance Company,0.0,0,3,15,18,64.096,1,2010
+999,10914,Kemper Independence Insurance Company,0.0,0,8,8,16,52.083,2,2010
+1000,25623,Phoenix Insurance Company,0.0,0,1,5,6,34.032,3,2010
+1001,20303,Great Northern Insurance Company,0.0,0,1,2,3,33.769,4,2010
+1002,29939,Main Street America Assurance Company,0.0,0,2,5,7,32.562,5,2010
+1003,19410,Commerce and Industry Insurance Company,0.0,0,0,6,6,21.788,6,2010
+1004,33588,First Liberty Insurance Corporation,0.0,0,2,4,6,20.462,7,2010
+1005,41483,Farmington Casualty Company,0.0,0,1,14,15,19.803,8,2010
+1006,29068,IDS Property Casualty Insurance Company,0.0,0,1,1,2,19.802,9,2010
+1007,18600,USAA General Indemnity Company,0.0,0,2,2,4,16.659,10,2010
+1008,43478,Utica National Insurance Company of Texas,0.0,0,1,3,4,15.747,11,2010
+1009,25615,Charter Oak Fire Insurance Company,0.0,0,3,1,4,13.334,12,2010
+1010,18279,Bankers Standard Insurance Company,0.0,0,1,0,1,13.087,13,2010
+1011,12475,Republic-Franklin Insurance Company,0.0,0,0,1,1,11.985,14,2010
+1012,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0,0,2,2,4,11.64,15,2010
+1013,37915,Essentia Insurance Company,0.0,0,0,1,1,11.609,16,2010
+1014,40231,Old Dominion Insurance Company,0.0,0,0,0,0,10.78,17,2010
+1015,22357,Hartford Accident and Indemnity Company,0.0,0,5,10,15,8.946,18,2010
+1016,10072,Encompass Property and Casualty Company,0.0,0,0,1,1,8.111,19,2010
+1017,19429,Insurance Company of the State of Pennsylvania,0.0,0,1,1,2,7.953,20,2010
+1018,11252,Encompass Home and Auto Insurance Company,0.0,0,2,4,6,7.538,21,2010
+1019,10052,Chubb National Insurance Company,0.0,0,0,1,1,7.03,22,2010
+1020,20052,National Liability & Fire Insurance Company,0.0,0,2,5,7,6.743,23,2010
+1021,21865,Associated Indemnity Corporation,0.0,0,0,1,1,6.397,24,2010
+1022,20133,Response Worldwide Direct Auto Insurance Company,0.0,0,1,1,2,6.338,25,2010
+1023,42447,National General Assurance Company,0.0,0,0,0,0,6.337,26,2010
+1024,34479,AutoOne Select Insurance Company,0.0,0,1,5,6,6.326,27,2010
+1025,23728,National General Insurance Company,0.0,0,1,3,4,6.16,28,2010
+1026,26050,Response Worldwide Insurance Company,0.0,0,0,2,2,6.109,29,2010
+1027,10881,Unitrin Advantage Insurance Company,0.0,0,1,4,5,5.946,30,2010
+1028,19070,Standard Fire Insurance Company,0.0,0,0,2,2,5.856,31,2010
+1029,20397,Vigilant Insurance Company,0.0,0,0,0,0,5.85,32,2010
+1030,37877,Nationwide Property and Casualty Insurance Company,0.0,0,3,7,10,5.694,33,2010
+1031,20230,Central Mutual Insurance Company,0.0,0,1,0,1,5.178,34,2010
+1032,36170,Travelers Casualty Company of Connecticut,0.0,0,2,0,2,5.051,35,2010
+1033,25976,Utica Mutual Insurance Company,0.0,0,1,7,8,4.919,36,2010
+1034,21849,American Automobile Insurance Company,0.0,0,0,1,1,4.878,37,2010
+1035,10111,American Bankers Insurance Company of Florida,0.0,0,0,3,3,4.677,38,2010
+1036,12504,Ameriprise Insurance Company,0.0,0,0,1,1,4.599,39,2010
+1037,40754,Blue Ridge Indemnity Company,0.0,0,0,0,0,4.211,40,2010
+1038,39004,National Merit Insurance Company,0.0,0,1,3,4,3.867,41,2010
+1039,10022,Countryway Insurance Company,0.0,0,1,2,3,3.697,42,2010
+1040,23450,American Family Home Insurance Company,0.0,0,0,1,1,3.388,43,2010
+1041,10645,Drivers Insurance Company,0.0,0,3,5,8,3.29,44,2010
+1042,34690,Property and Casualty Insurance Company of Hartford,0.0,0,2,2,4,3.289,45,2010
+1043,12873,Privilege Underwriters Reciprocal Exchange,0.0,0,0,0,0,2.806,46,2010
+1044,25984,Graphic Arts Mutual Insurance Company,0.0,0,0,3,3,2.552,47,2010
+1045,31488,Integon Preferred Insurance Company,0.0,0,0,0,0,2.211,48,2010
+1046,20281,Federal Insurance Company,0.0,0,2,2,4,2.183,49,2010
+1047,10687,Utica National Assurance Company,0.0,0,3,3,6,2.179,50,2010
+1048,21881,National Surety Corporation,0.0,0,1,0,1,2.173,51,2010
+1049,21873,Fireman's Fund Insurance Company,0.0,0,1,0,1,2.103,52,2010
+1050,38601,MIC Property and Casualty Insurance Corporation,0.0,0,0,1,1,1.953,53,2010
+1051,22225,21st Century Preferred Insurance Company,0.0,0,0,2,2,1.934,54,2010
+1052,29742,Integon National Insurance Company,0.0,0,0,1,1,1.816,55,2010
+1053,15210,Sterling Insurance Company,0.0,0,0,0,0,1.788,56,2010
+1054,22004,Cim Insurance Corporation,0.0,0,0,0,0,1.684,57,2010
+1055,13242,Titan Indemnity Company,0.0,0,1,2,3,1.633,58,2010
+1056,20346,Pacific Indemnity Company,0.0,0,0,0,0,1.536,59,2010
+1057,19615,American Reliable Insurance Company,0.0,0,0,0,0,1.288,60,2010
+1058,10723,Nationwide Assurance Company,0.0,0,0,0,0,1.237,61,2010
+1059,26182,Harleysville Worcester Insurance Company,0.0,0,0,0,0,1.187,62,2010
+1060,23787,Nationwide Mutual Insurance Company,0.0081,1,13,24,38,123.174,63,2010
+1061,14834,New York Central Mutual Fire Insurance Company,0.013,3,39,67,109,230.064,64,2010
+1062,40169,Metropolitan Casualty Insurance Company,0.0139,2,14,21,37,144.39,65,2010
+1063,35882,GEICO General Insurance Company,0.0156,20,180,238,438,1284.558,66,2010
+1064,11105,A. Central Insurance Company,0.0169,1,13,37,51,59.201,67,2010
+1065,25143,State Farm Fire and Casualty Company,0.0176,3,18,35,56,170.59,68,2010
+1066,12130,New South Insurance Company,0.0198,2,8,17,27,101.145,69,2010
+1067,38628,Progressive Northern Insurance Company,0.0225,4,12,23,39,178.138,70,2010
+1068,19941,American Commerce Insurance Company,0.0226,1,8,14,23,44.313,71,2010
+1069,25453,Nationwide Insurance Company of America,0.0226,2,6,13,21,88.474,72,2010
+1070,22055,GEICO Indemnity Company,0.0227,14,132,166,312,618.005,73,2010
+1071,11908,Mercury Casualty Company,0.0292,1,5,13,19,34.257,74,2010
+1072,37478,Hartford Insurance Company of the Midwest,0.0299,1,1,9,11,33.443,75,2010
+1073,24279,Progressive Max Insurance Company,0.0336,1,2,7,10,29.803,76,2010
+1074,22063,Government Employees Insurance Company,0.0336,16,189,249,454,476.171,77,2010
+1075,16063,Unitrin Auto and Home Insurance Company,0.0337,1,2,5,8,29.677,78,2010
+1076,19976,Amica Mutual Insurance Company,0.0347,3,7,14,24,86.409,79,2010
+1077,25178,State Farm Mutual Automobile Insurance Company,0.0361,37,177,212,426,1024.953,80,2010
+1078,15024,Preferred Mutual Insurance Company,0.0362,2,9,12,23,55.206,81,2010
+1079,32220,21st Century North America Insurance Company,0.0377,1,5,15,21,26.516,82,2010
+1080,11851,Progressive Advanced Insurance Company,0.0386,2,9,20,31,51.753,83,2010
+1081,34339,Metropolitan Group Property and Casualty Insurance Company,0.0399,3,5,13,21,75.119,84,2010
+1082,24198,Peerless Insurance Company,0.0413,3,15,17,35,72.694,85,2010
+1083,19062,"Automobile Insurance Company of Hartford, Connecticut",0.0416,1,2,3,6,24.032,86,2010
+1084,25909,Unitrin Preferred Insurance Company,0.0421,1,0,3,4,23.751,87,2010
+1085,25941,United Services Automobile Association,0.0423,4,8,20,32,94.451,88,2010
+1086,42919,Progressive Northwestern Insurance Company,0.0427,2,2,11,15,46.858,89,2010
+1087,28188,TravCo Insurance Company,0.0433,1,2,3,6,23.069,90,2010
+1088,12583,Adirondack Insurance Exchange,0.0473,4,15,6,25,84.519,91,2010
+1089,17230,Allstate Property and Casualty Insurance Company,0.0475,29,38,100,167,610.465,92,2010
+1090,11000,"Sentinel Insurance Company, Ltd.",0.0478,3,3,10,16,62.721,93,2010
+1091,12777,Chubb Indemnity Insurance Company,0.0479,1,1,2,4,20.86,94,2010
+1092,32786,Progressive Specialty Insurance Company,0.0481,3,5,11,19,62.395,95,2010
+1093,27998,Travelers Home and Marine Insurance Company,0.0504,9,17,21,47,178.498,96,2010
+1094,40649,Economy Premier Assurance Company,0.0515,1,1,2,4,19.421,97,2010
+1095,23035,Liberty Mutual Fire Insurance Company,0.0547,26,82,84,192,474.954,98,2010
+1096,37834,Progressive Preferred Insurance Company,0.0548,5,11,25,41,91.241,99,2010
+1097,16322,Progressive Direct Insurance Company,0.0555,5,17,26,48,90.082,100,2010
+1098,25674,Travelers Property Casualty Company of America,0.0576,10,12,31,53,173.747,101,2010
+1099,11037,Eveready Insurance Company,0.0598,1,10,24,35,16.712,102,2010
+1100,23760,Nationwide General Insurance Company,0.0611,2,10,24,36,32.751,103,2010
+1101,25968,USAA Casualty Insurance Company,0.0613,5,6,23,34,81.562,104,2010
+1102,25275,State-Wide Insurance Company,0.0672,2,10,24,36,29.762,105,2010
+1103,10212,Allmerica Financial Alliance Insurance Company,0.0797,4,7,12,23,50.212,106,2010
+1104,38288,Hartford Insurance Company of Illinois,0.081,6,13,16,35,74.058,107,2010
+1105,10071,Encompass Insurance Company of America,0.0826,2,4,9,15,24.226,108,2010
+1106,42404,Liberty Insurance Corporation,0.0862,1,1,3,5,11.6,109,2010
+1107,30104,Hartford Underwriters Insurance Company,0.0864,1,2,0,3,11.576,110,2010
+1108,12901,Merchants Preferred Insurance Company,0.0873,2,3,3,8,22.917,111,2010
+1109,37257,Praetorian Insurance Company,0.0878,4,18,35,57,45.538,112,2010
+1110,29424,Hartford Casualty Insurance Company,0.0909,1,3,5,9,11.0,113,2010
+1111,21261,Electric Insurance Company,0.091,1,3,3,7,10.99,114,2010
+1112,26085,Warner Insurance Company,0.0912,1,2,5,8,10.97,115,2010
+1113,34789,21st Century Centennial Insurance Company,0.097,1,0,8,9,10.312,116,2010
+1114,31534,Citizens Insurance Company of America,0.0994,1,2,3,6,10.057,117,2010
+1115,21709,Truck Insurance Exchange,0.1032,3,7,19,29,29.073,118,2010
+1116,33855,Lincoln General Insurance Company,0.1188,2,15,32,49,16.837,119,2010
+1117,23469,American Modern Home Insurance Company,0.1203,1,0,0,1,8.31,120,2010
+1118,21253,Garrison Property and Casualty Insurance Company,0.1218,1,1,1,3,8.211,121,2010
+1119,14788,NGM Insurance Company,0.1265,2,3,6,11,15.808,122,2010
+1120,36137,Travelers Commercial Insurance Company,0.1278,2,1,4,7,15.648,123,2010
+1121,19704,American States Insurance Company,0.1292,2,0,7,9,15.475,124,2010
+1122,13803,Farm Family Casualty Insurance Company,0.1319,3,1,12,16,22.745,125,2010
+1123,22306,Massachusetts Bay Insurance Company,0.1366,1,0,0,1,7.318,126,2010
+1124,19682,Hartford Fire Insurance Company,0.1386,1,0,3,4,7.218,127,2010
+1125,24260,Progressive Casualty Insurance Company,0.1388,7,25,71,103,50.422,128,2010
+1126,15130,Encompass Indemnity Company,0.1392,4,4,8,16,28.741,129,2010
+1127,19232,Allstate Insurance Company,0.1423,170,698,482,1350,1194.346,130,2010
+1128,20796,21st Century Premier Insurance Company,0.1428,1,0,1,2,7.001,131,2010
+1129,39217,QBE Insurance Corporation,0.1486,3,14,35,52,20.19,132,2010
+1130,10226,Unitrin Direct Insurance Company,0.1519,1,7,9,17,6.582,133,2010
+1131,25682,Travelers Indemnity Company of Connecticut,0.155,3,2,4,9,19.36,134,2010
+1132,43974,21st Century Indemnity Insurance Company,0.1694,3,4,7,14,17.713,135,2010
+1133,12360,Ocean Harbor Casualty Insurance Company,0.1773,1,15,24,40,5.641,136,2010
+1134,10921,ACA Insurance Company,0.1833,2,0,1,3,10.912,137,2010
+1135,43044,Response Insurance Company,0.1926,1,1,4,6,5.191,138,2010
+1136,25712,Esurance Insurance Company,0.1998,11,6,45,62,55.049,139,2010
+1137,25232,21st Century Advantage Insurance Company,0.2239,4,2,14,20,17.868,140,2010
+1138,26298,Metropolitan Property and Casualty Insurance Company,0.2274,1,3,2,6,4.398,141,2010
+1139,23779,Nationwide Mutual Fire Insurance Company,0.2369,5,7,15,27,21.11,142,2010
+1140,34460,AutoOne Insurance Company,0.2474,11,20,41,72,44.459,143,2010
+1141,14311,Interboro Insurance Company,0.2485,2,3,5,10,8.049,144,2010
+1142,10806,Farmers New Century Insurance Company,0.2617,4,8,6,18,15.283,145,2010
+1143,11215,SAFECO Insurance Company of Indiana,0.2678,2,1,4,7,7.469,146,2010
+1144,24740,SAFECO Insurance Company of America,0.2719,1,3,11,15,3.677,147,2010
+1145,23060,Tri-State Consumer Insurance Company,0.272,5,16,32,53,18.382,148,2010
+1146,36587,21st Century National Insurance Company,0.285,3,7,8,18,10.526,149,2010
+1147,29459,Twin City Fire Insurance Company,0.3453,1,0,0,1,2.896,150,2010
+1148,41491,GEICO Casualty Company,0.3458,1,4,24,29,2.892,151,2010
+1149,10839,Country-Wide Insurance Company,0.3643,32,245,400,677,87.843,152,2010
+1150,36161,Travelers Property Casualty Insurance Company,0.3711,1,2,14,17,2.695,153,2010
+1151,23841,New Hampshire Insurance Company,0.3867,1,1,6,8,2.586,154,2010
+1152,25666,Travelers Indemnity Company of America,0.3909,1,0,1,2,2.558,155,2010
+1153,25658,Travelers Indemnity Company,0.5906,5,9,15,29,8.467,156,2010
+1154,22268,Infinity Insurance Company,0.6902,1,0,1,2,1.449,157,2010
+1155,21164,Dairyland Insurance Company,0.7283,2,0,1,3,2.746,158,2010
+1156,37648,Permanent General Assurance Corporation,0.8171,6,0,19,25,7.343,159,2010
+1157,18058,Philadelphia Indemnity Insurance Company,0.8494,2,0,0,2,2.355,160,2010
+1158,12963,21st Century Insurance Company,0.9431,1,4,19,24,1.06,161,2010
+1159,10915,Unitrin Direct Property & Casualty Company,0.9908,2,2,0,4,2.019,162,2010
+1160,19240,Allstate Indemnity Company,1.231,10,4,12,26,8.124,163,2010
+1161,19380,American Home Assurance Company,1.3084,1,0,2,3,0.764,164,2010
+1162,24813,Balboa Insurance Company,1.3248,1,0,1,2,0.755,165,2010
+1163,27120,Trumbull Insurance Company,2.017,1,0,0,1,0.496,166,2010
+1164,19399,AIU Insurance Company,2.1424,1,0,3,4,0.467,167,2010
+1165,24821,Meritplan Insurance Company,2.7751,2,1,1,4,0.721,168,2010
+1166,22292,Hanover Insurance Company,2.8907,6,2,2,10,2.076,169,2010
+1167,37850,Pacific Specialty Insurance Company,3.4159,1,0,1,2,0.293,170,2010
+1168,23817,Illinois National Insurance Co.,6.2547,1,1,0,2,0.16,171,2010
+1169,25054,Hudson Insurance Company,6.8039,1,0,1,2,0.147,172,2010
+1170,10243,National Continental Insurance Company,10.3004,1,3,4,8,0.097,173,2010
+1171,19445,"National Union Fire Insurance Company of Pittsburgh, Pa.",25.7674,2,0,2,4,0.078,174,2010
+1172,21792,Infinity Casualty Insurance Company,31.5686,1,0,0,1,0.032,175,2010
+1173,19402,Chartis Property Casualty Company,33.7096,4,0,5,9,0.119,176,2010
+1174,22187,Greater New York Mutual Insurance Company,74.5379,1,0,0,1,0.013,177,2010
+1175,21970,OneBeacon Insurance Company,128.0041,2,0,1,3,0.016,178,2010
+1176,20532,Clarendon National Insurance Company,280.4459,2,0,10,12,0.007,179,2010
+1177,23787,Nationwide Mutual Insurance Company,0.0,0,17,38,55,140.474,1,2009
+1178,12583,Adirondack Insurance Exchange,0.0,0,20,21,41,94.6,2,2009
+1179,19976,Amica Mutual Insurance Company,0.0,0,4,7,11,85.452,3,2009
+1180,25623,Phoenix Insurance Company,0.0,0,1,3,4,42.506,4,2009
+1181,20303,Great Northern Insurance Company,0.0,0,3,5,8,40.097,5,2009
+1182,28188,TravCo Insurance Company,0.0,0,2,2,4,28.076,6,2009
+1183,12777,Chubb Indemnity Insurance Company,0.0,0,1,4,5,25.059,7,2009
+1184,19410,Commerce and Industry Insurance Company,0.0,0,1,3,4,23.817,8,2009
+1185,36587,21st Century National Insurance Company,0.0,0,8,32,40,22.727,9,2009
+1186,40649,Economy Premier Assurance Company,0.0,0,2,3,5,21.35,10,2009
+1187,19941,American Commerce Insurance Company,0.0,0,0,1,1,18.639,11,2009
+1188,11851,Progressive Advanced Insurance Company,0.0,0,2,6,8,18.128,12,2009
+1189,25615,Charter Oak Fire Insurance Company,0.0,0,0,2,2,16.533,13,2009
+1190,12901,Merchants Preferred Insurance Company,0.0,0,1,1,2,14.46,14,2009
+1191,12475,Republic-Franklin Insurance Company,0.0,0,2,2,4,13.669,15,2009
+1192,31534,Citizens Insurance Company of America,0.0,0,1,3,4,12.418,16,2009
+1193,42404,Liberty Insurance Corporation,0.0,0,2,9,11,12.303,17,2009
+1194,18600,USAA General Indemnity Company,0.0,0,4,8,12,12.075,18,2009
+1195,32220,21st Century North America Insurance Company,0.0,0,0,3,3,11.959,19,2009
+1196,11185,"Foremost Insurance Company Grand Rapids, Michigan",0.0,0,1,3,4,10.948,20,2009
+1197,37915,Essentia Insurance Company,0.0,0,0,0,0,10.019,21,2009
+1198,36137,Travelers Commercial Insurance Company,0.0,0,0,2,2,9.968,22,2009
+1199,22306,Massachusetts Bay Insurance Company,0.0,0,1,2,3,9.248,23,2009
+1200,21865,Associated Indemnity Corporation,0.0,0,0,0,0,7.482,24,2009
+1201,23728,National General Insurance Company,0.0,0,0,4,4,7.209,25,2009
+1202,26050,Response Worldwide Insurance Company,0.0,0,3,4,7,7.133,26,2009
+1203,11252,Encompass Home and Auto Insurance Company,0.0,0,3,5,8,6.712,27,2009
+1204,20796,21st Century Premier Insurance Company,0.0,0,1,1,2,6.688,28,2009
+1205,20397,Vigilant Insurance Company,0.0,0,0,0,0,6.675,29,2009
+1206,24813,Balboa Insurance Company,0.0,0,0,0,0,6.539,30,2009
+1207,36170,Travelers Casualty Company of Connecticut,0.0,0,1,1,2,6.288,31,2009
+1208,37877,Nationwide Property and Casualty Insurance Company,0.0,0,3,5,8,5.704,32,2009
+1209,18279,Bankers Standard Insurance Company,0.0,0,0,0,0,5.589,33,2009
+1210,42447,National General Assurance Company,0.0,0,0,3,3,5.478,34,2009
+1211,38601,MIC Property and Casualty Insurance Corporation,0.0,0,1,1,2,5.294,35,2009
+1212,22004,Cim Insurance Corporation,0.0,0,0,1,1,5.202,36,2009
+1213,21849,American Automobile Insurance Company,0.0,0,0,0,0,4.97,37,2009
+1214,40754,Blue Ridge Indemnity Company,0.0,0,0,0,0,4.835,38,2009
+1215,20230,Central Mutual Insurance Company,0.0,0,0,2,2,4.683,39,2009
+1216,39004,National Merit Insurance Company,0.0,0,0,1,1,4.504,40,2009
+1217,24740,SAFECO Insurance Company of America,0.0,0,3,5,8,4.435,41,2009
+1218,10111,American Bankers Insurance Company of Florida,0.0,0,0,2,2,4.268,42,2009
+1219,10022,Countryway Insurance Company,0.0,0,2,2,4,3.773,43,2009
+1220,33235,Harleysville Insurance Company of New York,0.0,0,1,3,4,3.688,44,2009
+1221,23450,American Family Home Insurance Company,0.0,0,1,1,2,3.557,45,2009
+1222,29459,Twin City Fire Insurance Company,0.0,0,1,3,4,3.287,46,2009
+1223,25666,Travelers Indemnity Company of America,0.0,0,3,3,6,3.207,47,2009
+1224,25984,Graphic Arts Mutual Insurance Company,0.0,0,0,0,0,3.16,48,2009
+1225,30104,Hartford Underwriters Insurance Company,0.0,0,0,1,1,2.786,49,2009
+1226,10915,Unitrin Direct Property & Casualty Company,0.0,0,1,1,2,2.707,50,2009
+1227,10687,Utica National Assurance Company,0.0,0,2,2,4,2.548,51,2009
+1228,22225,21st Century Preferred Insurance Company,0.0,0,1,0,1,2.389,52,2009
+1229,40231,Old Dominion Insurance Company,0.0,0,0,0,0,2.351,53,2009
+1230,31488,Integon Preferred Insurance Company,0.0,0,0,0,0,2.309,54,2009
+1231,21881,National Surety Corporation,0.0,0,0,0,0,2.251,55,2009
+1232,18058,Philadelphia Indemnity Insurance Company,0.0,0,0,2,2,2.093,56,2009
+1233,20346,Pacific Indemnity Company,0.0,0,0,0,0,1.836,57,2009
+1234,15210,Sterling Insurance Company,0.0,0,0,3,3,1.774,58,2009
+1235,23329,Merchants Mutual Insurance Company,0.0,0,7,4,11,1.771,59,2009
+1236,10723,Nationwide Assurance Company,0.0,0,0,2,2,1.727,60,2009
+1237,26182,Harleysville Worcester Insurance Company,0.0,0,0,0,0,1.422,61,2009
+1238,19615,American Reliable Insurance Company,0.0,0,0,0,0,1.358,62,2009
+1239,39950,Metropolitan General Insurance Company,0.0,0,1,0,1,1.166,63,2009
+1240,10052,Chubb National Insurance Company,0.0,0,0,1,1,1.156,64,2009
+1241,18376,Hermitage Insurance Company,0.0,0,1,2,3,1.151,65,2009
+1242,38628,Progressive Northern Insurance Company,0.009,1,1,6,8,110.726,66,2009
+1243,12130,New South Insurance Company,0.0119,1,8,26,35,84.383,67,2009
+1244,35882,GEICO General Insurance Company,0.0122,15,211,222,448,1227.732,68,2009
+1245,22063,Government Employees Insurance Company,0.0153,7,210,268,485,457.169,69,2009
+1246,26263,Erie Insurance Company,0.0165,1,11,16,28,60.425,70,2009
+1247,22055,GEICO Indemnity Company,0.0198,12,131,205,348,605.301,71,2009
+1248,10914,Kemper Independence Insurance Company,0.0209,1,6,11,18,47.891,72,2009
+1249,14834,New York Central Mutual Fire Insurance Company,0.022,5,44,103,152,227.552,73,2009
+1250,15130,Encompass Indemnity Company,0.025,1,7,5,13,40.028,74,2009
+1251,25674,Travelers Property Casualty Company of America,0.0284,6,24,51,81,210.945,75,2009
+1252,10071,Encompass Insurance Company of America,0.0328,1,3,11,15,30.472,76,2009
+1253,40169,Metropolitan Casualty Insurance Company,0.0337,5,10,31,46,148.53,77,2009
+1254,16322,Progressive Direct Insurance Company,0.034,4,19,52,75,117.569,78,2009
+1255,25909,Unitrin Preferred Insurance Company,0.0354,1,2,6,9,28.214,79,2009
+1256,10212,Allmerica Financial Alliance Insurance Company,0.0373,2,5,8,15,53.64,80,2009
+1257,42919,Progressive Northwestern Insurance Company,0.0401,2,2,12,16,49.883,81,2009
+1258,25453,Nationwide Insurance Company of America,0.0406,3,3,10,16,73.873,82,2009
+1259,34339,Metropolitan Group Property and Casualty Insurance Company,0.0413,3,5,21,29,72.689,83,2009
+1260,25682,Travelers Indemnity Company of Connecticut,0.0426,1,2,1,4,23.468,84,2009
+1261,32786,Progressive Specialty Insurance Company,0.0444,1,0,7,8,22.534,85,2009
+1262,23035,Liberty Mutual Fire Insurance Company,0.0457,21,75,135,231,459.786,86,2009
+1263,29068,IDS Property Casualty Insurance Company,0.0473,1,3,1,5,21.141,87,2009
+1264,17230,Allstate Property and Casualty Insurance Company,0.051,25,14,55,94,490.044,88,2009
+1265,25941,United Services Automobile Association,0.053,5,12,24,41,94.419,89,2009
+1266,41483,Farmington Casualty Company,0.0544,1,8,9,18,18.38,90,2009
+1267,29939,Main Street America Assurance Company,0.0546,2,2,1,5,36.622,91,2009
+1268,16063,Unitrin Auto and Home Insurance Company,0.057,2,6,8,16,35.07,92,2009
+1269,33588,First Liberty Insurance Corporation,0.0605,1,3,8,12,16.537,93,2009
+1270,25178,State Farm Mutual Automobile Insurance Company,0.0623,60,298,252,610,962.945,94,2009
+1271,37834,Progressive Preferred Insurance Company,0.0631,9,14,48,71,142.531,95,2009
+1272,25143,State Farm Fire and Casualty Company,0.0675,10,18,50,78,148.124,96,2009
+1273,23779,Nationwide Mutual Fire Insurance Company,0.0707,2,6,17,25,28.282,97,2009
+1274,11000,"Sentinel Insurance Company, Ltd.",0.0719,5,8,15,28,69.495,98,2009
+1275,25968,USAA Casualty Insurance Company,0.0732,6,8,18,32,81.938,99,2009
+1276,43974,21st Century Indemnity Insurance Company,0.0779,2,8,27,37,25.673,100,2009
+1277,11037,Eveready Insurance Company,0.0804,1,5,19,25,12.441,101,2009
+1278,37257,Praetorian Insurance Company,0.081,2,16,19,37,24.694,102,2009
+1279,21261,Electric Insurance Company,0.0861,1,0,11,12,11.613,103,2009
+1280,22357,Hartford Accident and Indemnity Company,0.0866,1,6,8,15,11.548,104,2009
+1281,38288,Hartford Insurance Company of Illinois,0.09,7,8,22,37,77.784,105,2009
+1282,24279,Progressive Max Insurance Company,0.0911,1,3,2,6,10.977,106,2009
+1283,15024,Preferred Mutual Insurance Company,0.0948,5,9,23,37,52.749,107,2009
+1284,10072,Encompass Property and Casualty Company,0.1021,1,1,2,4,9.797,108,2009
+1285,37478,Hartford Insurance Company of the Midwest,0.1045,4,1,12,17,38.287,109,2009
+1286,11105,A. Central Insurance Company,0.1065,5,18,26,49,46.936,110,2009
+1287,19682,Hartford Fire Insurance Company,0.1083,1,0,3,4,9.235,111,2009
+1288,43478,Utica National Insurance Company of Texas,0.1215,1,0,1,2,8.231,112,2009
+1289,25275,State-Wide Insurance Company,0.1224,4,13,24,41,32.667,113,2009
+1290,27998,Travelers Home and Marine Insurance Company,0.1264,15,13,15,43,118.665,114,2009
+1291,10921,ACA Insurance Company,0.1286,1,2,5,8,7.773,115,2009
+1292,19070,Standard Fire Insurance Company,0.1356,1,2,2,5,7.377,116,2009
+1293,19062,"Automobile Insurance Company of Hartford, Connecticut",0.1366,4,3,0,7,29.286,117,2009
+1294,19429,Insurance Company of the State of Pennsylvania,0.1405,4,7,10,21,28.477,118,2009
+1295,19232,Allstate Insurance Company,0.1418,180,318,525,1023,1269.438,119,2009
+1296,19704,American States Insurance Company,0.1521,1,1,5,7,6.575,120,2009
+1297,24260,Progressive Casualty Insurance Company,0.1523,2,16,52,70,13.133,121,2009
+1298,20133,Response Worldwide Direct Auto Insurance Company,0.1539,1,1,3,5,6.497,122,2009
+1299,24198,Peerless Insurance Company,0.1593,10,8,17,35,62.781,123,2009
+1300,26085,Warner Insurance Company,0.16,2,3,9,14,12.503,124,2009
+1301,43044,Response Insurance Company,0.16,1,4,5,10,6.251,125,2009
+1302,11908,Mercury Casualty Company,0.1626,5,9,15,29,30.748,126,2009
+1303,13803,Farm Family Casualty Insurance Company,0.1693,4,3,6,13,23.623,127,2009
+1304,33855,Lincoln General Insurance Company,0.1746,8,29,83,120,45.809,128,2009
+1305,14788,NGM Insurance Company,0.1757,3,5,8,16,17.076,129,2009
+1306,26298,Metropolitan Property and Casualty Insurance Company,0.1916,1,1,2,4,5.22,130,2009
+1307,10881,Unitrin Advantage Insurance Company,0.1982,1,0,7,8,5.045,131,2009
+1308,34789,21st Century Centennial Insurance Company,0.1988,2,0,10,12,10.058,132,2009
+1309,25712,Esurance Insurance Company,0.2033,12,20,56,88,59.012,133,2009
+1310,21709,Truck Insurance Exchange,0.2078,6,5,9,20,28.879,134,2009
+1311,25232,21st Century Advantage Insurance Company,0.2089,5,3,16,24,23.94,135,2009
+1312,21253,Garrison Property and Casualty Insurance Company,0.2207,1,0,2,3,4.53,136,2009
+1313,23469,American Modern Home Insurance Company,0.2315,2,2,5,9,8.64,137,2009
+1314,23760,Nationwide General Insurance Company,0.2316,7,12,34,53,30.221,138,2009
+1315,34690,Property and Casualty Insurance Company of Hartford,0.2521,1,0,1,2,3.967,139,2009
+1316,14311,Interboro Insurance Company,0.2658,2,8,6,16,7.524,140,2009
+1317,11215,SAFECO Insurance Company of Indiana,0.2781,3,0,4,7,10.787,141,2009
+1318,34460,AutoOne Insurance Company,0.2788,14,21,63,98,50.214,142,2009
+1319,10645,Drivers Insurance Company,0.2993,1,4,3,8,3.341,143,2009
+1320,10806,Farmers New Century Insurance Company,0.3087,6,9,10,25,19.437,144,2009
+1321,10839,Country-Wide Insurance Company,0.3111,24,107,227,358,77.15,145,2009
+1322,21164,Dairyland Insurance Company,0.318,1,2,3,6,3.145,146,2009
+1323,12360,Ocean Harbor Casualty Insurance Company,0.3209,2,3,14,19,6.233,147,2009
+1324,19380,American Home Assurance Company,0.3449,1,0,3,4,2.899,148,2009
+1325,21873,Fireman's Fund Insurance Company,0.3897,1,0,2,3,2.566,149,2009
+1326,20281,Federal Insurance Company,0.3966,1,3,2,6,2.521,150,2009
+1327,34479,AutoOne Select Insurance Company,0.4037,8,7,16,31,19.818,151,2009
+1328,35637,Landmark Insurance Company,0.4429,1,0,0,1,2.258,152,2009
+1329,39217,QBE Insurance Corporation,0.4792,7,4,23,34,14.608,153,2009
+1330,25658,Travelers Indemnity Company,0.4865,5,12,32,49,10.277,154,2009
+1331,29742,Integon National Insurance Company,0.4966,1,1,3,5,2.014,155,2009
+1332,23060,Tri-State Consumer Insurance Company,0.4972,9,20,31,60,18.103,156,2009
+1333,41491,GEICO Casualty Company,0.6248,1,0,28,29,1.6,157,2009
+1334,10226,Unitrin Direct Insurance Company,0.772,8,9,16,33,10.362,158,2009
+1335,23841,New Hampshire Insurance Company,0.832,7,1,5,13,8.414,159,2009
+1336,29424,Hartford Casualty Insurance Company,0.9063,2,1,9,12,2.207,160,2009
+1337,12963,21st Century Insurance Company,1.1588,2,2,15,19,1.726,161,2009
+1338,24821,Meritplan Insurance Company,1.1592,1,0,2,3,0.863,162,2009
+1339,19240,Allstate Indemnity Company,1.1722,12,9,22,43,10.237,163,2009
+1340,31968,Merastar Insurance Company,1.2187,1,0,1,2,0.821,164,2009
+1341,37648,Permanent General Assurance Corporation,1.2642,3,0,6,9,2.373,165,2009
+1342,36161,Travelers Property Casualty Insurance Company,1.525,5,6,16,27,3.279,166,2009
+1343,25976,Utica Mutual Insurance Company,1.6667,7,4,14,25,4.2,167,2009
+1344,22292,Hanover Insurance Company,1.6956,4,3,14,21,2.359,168,2009
+1345,24759,Safeco National Insurance Company,1.697,1,0,1,2,0.589,169,2009
+1346,19399,AIU Insurance Company,1.7051,3,2,6,11,1.759,170,2009
+1347,22268,Infinity Insurance Company,2.1129,5,0,7,12,2.366,171,2009
+1348,12599,Infinity Standard Insurance Company,2.3089,2,0,2,4,0.866,172,2009
+1349,27120,Trumbull Insurance Company,2.7234,1,1,3,5,0.367,173,2009
+1350,19402,Chartis Property Casualty Company,3.3663,2,1,7,10,0.594,174,2009
+1351,10243,National Continental Insurance Company,6.9407,1,3,3,7,0.144,175,2009
+1352,25054,Hudson Insurance Company,8.9173,3,0,2,5,0.336,176,2009
+1353,22667,ACE American Insurance Company,12.5881,1,0,3,4,0.079,177,2009
+1354,23809,Granite State Insurance Company,14.2471,1,0,0,1,0.07,178,2009
+1355,10982,Long Island Insurance Company,25.886,265,17,73,355,10.237,179,2009
+1356,16535,Zurich American Insurance Company,36.5845,1,0,1,2,0.027,180,2009
+1357,42889,Victoria Fire & Casualty Company,152.9403,1,1,1,3,0.007,181,2009
