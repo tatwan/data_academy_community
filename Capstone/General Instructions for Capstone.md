@@ -1,4 +1,4 @@
-![img](https://github.com/tatwan/data_academy_community/blob/main/Capstone/images/2560px-M%2526T_Bank_wordmark.svg.png)
+![img]()
 
 
 
