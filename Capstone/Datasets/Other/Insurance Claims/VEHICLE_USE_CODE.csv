@@ -1,0 +1,11 @@
+VEHICLE_USE_CODE,VEHICLE_USE
+1,Work/School — Under 15 Miles
+2,Work/School — Over 15 Miles
+3,Pleasure — Under 7500 Miles
+4,Pleasure — Over 7500 Miles
+5,Business — No Youthful Operator
+6,Business — Youthful Operator
+B,Business — Operator Age Unspecified
+7,Farm — No Youthful Operator
+8,Farm — Youthful Operator
+F,Farm — Operator Age Unspecified

@@ -1,0 +1,9 @@
+GENDER_MARITAL_STATUS_CODE,GENDER_MARITAL_STATUS
+1,Married Male
+2,Single Male — Principal
+3,Single Male — Secondary
+4,Married Female
+5,Single Female — Principal
+6,Single Female — Secondary
+7,Married — Gender Neutral State Only
+8,Single — Gender Neutral State Only

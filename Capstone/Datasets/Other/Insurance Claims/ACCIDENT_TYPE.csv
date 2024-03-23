@@ -1,0 +1,8 @@
+ACCIDENT_TYPE_CODE,ACCIDENT_TYPE
+1,Collision - Property Damage
+2,Collision - Vehicle Physical Damage
+3,Bodily Injury
+4,Vandalism
+5,Fire
+6,Theft
+7,Vandalism

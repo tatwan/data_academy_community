@@ -1,0 +1,24 @@
+BODY_STYLE_CODE,BODY_STYLE
+2,Station Wagon
+3,Convertible
+4,Vans — Passenger
+5,Vans — Cargo
+6,Pick-Up or Panel Truck
+7,Buses
+8,Truck (Not including Truck Tractors or Dump Trucks)
+9,Motor Homes and Auto Homes (self-propelled)
+10,Campers and Travel Trailers
+11,Dune Buggies
+13,Antique Autos
+14,Amphibious Autos
+15,Snowmobiles
+16,Golf Carts
+17,"Motorcycles, Motorscooters, Motorbikes, Trail Bikes and Mopeds"
+19,Sedan 2-door
+20,Sedan 4-door
+21,Semitrailer
+22,Trailer
+24,Truck Tractor (Including Semitractors)
+25,Dump Trucks
+30,"Taxis, Limousines or Van Pools"
+99,All Other
