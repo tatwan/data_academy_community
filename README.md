@@ -21,11 +21,27 @@
 
 
 
+## Good Reads
+
+* [How to Master Data Storytelling with Examples](https://visme.co/blog/data-storytelling/)
+* [How to Take Data Storytelling in Your Presentation to The Next Level](https://www.slidescarnival.com/learn/how-to-take-data-storytelling-in-your-presentation-to-the-next-level)
+* [Microsoft PowerBI Data Storytelling](https://powerbi.microsoft.com/en-us/data-storytelling/)
+
+
+
+## PowerBI
+
+* [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
+
+
+
 ## Excel Resources 
 
 * [W3Schools for Excel](https://www.w3schools.com/excel/index.php)
 * [GeeksforGeeks Excel Tutorials](https://www.geeksforgeeks.org/excel-tutorial/)
 * [Microsoft Excel Documentation & Support](https://support.microsoft.com/en-us/excel)
+
+
 
 ## Additional SQL Resources  (Learn)
 
@@ -40,6 +56,6 @@
 ## Practice SQL
 
 * [HackerRank for SQL Practice](https://www.hackerrank.com/domains/sql)
+* [CodeAcademy SQL](https://www.codecademy.com/enrolled/courses/learn-sql)
+* [Mode Analytics SQL Tutorials](https://mode.com/sql-tutorial)
 
-## Power BI Resources
-(To be added soon) 
